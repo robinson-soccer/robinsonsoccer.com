@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ partial "nav/youth-nav" . }}
+
+
+{{ partial "banner" . }}
+
+<div class="container">
+  <section class="row justify-content-between">
+    <main class="col-lg-8 ">
+      <div class="shadow p-4">
+        <h2 class="mb-4">{{ .Params.title }}</h2>
+
+        {{ .Content }}
+
+      </div>
+    </main>
+    {{ partial "youth-sidebar" . }}
+  </section>
+</div>
+{{ partial "footer/youth-footer" . }}
+{{ end }}

@@ -1,0 +1,54 @@
+{{/*  TODO: Padding and Margins  */}}
+<p class="h2">Step 1: Player Registration</p>
+<a href="https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit">Click here to register for
+  U12, U14, and U18</a>
+<hr>
+<p class="h2">Step 2: Pay Online</p>
+<p>Enter the amount below and pay for all players registering for Robinson Soccer Club with one payment. Cost is $65 per
+  player for U14 and U12. Maximum of $175 per family.</p>
+<p>Please <a href="/club/contact">contact us</a> if there are any problems.</p>
+{{/*  TODO Temporary form  */}}
+<form id="stripe-payment-form" class="well well-lg" method="POST">
+  <div class="payment-errors">
+  </div>
+  <div class="form-group">
+    <label for="com_pingdevelopment_stripe_amount" class="">Amount to Pay</label>
+
+    <div class="input-group">
+      <span class="input-group-addon" id="basic-addon1">
+        $ </span>
+      <input type="text" name="com_pingdevelopment_stripe_amount" class="form-control" required="required"
+        placeholder="0.00" maxlength="10">
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="com_pingdevelopment_stripe_reference_number" class=""> Description</label>
+
+    <div class="">
+      <div class="input-group">
+        <span class="input-group-addon" id="basic-addon2"> </span>
+        <input type="text" name="com_pingdevelopment_stripe_reference_number" class="form-control" required="required"
+          placeholder="Robinson Soccer Registration" maxlength="64">
+      </div>
+    </div>
+  </div>
+  <script src="https://checkout.stripe.com/checkout.js" class="stripe-button active"
+    data-key="pk_live_dgqjlxQpw6uy2QODwDAdetjH" data-name="Make a Payment" data-description=""
+    data-billingaddress="true">
+  </script><button type="submit" class="stripe-button-el" style="visibility: visible;"><span
+      style="display: block; min-height: 30px;">Pay with Card</span></button>
+</form>
+{{/*  TODO temporary form  */}}
+<hr>
+<p class="h2">Step 3: Complete Waiver</p>
+<p class="fw-bold">Emergency Medical Release and Liability Waiver</p>
+<p>In order to participate in practices and games each player must provide a completed and signed IYSA Emergency Medical
+  Release and Liability Waiver form. You can fill out and print the form here:</p>
+{{/*  Rewrote links as titles not URL's  */}}
+<a href="http://www.illinoisyouthsoccer.org/_files/forms/Medical%20Release%20Form.pdf">Illinois Youth Soccer: Medical
+  Release Form</a>
+<p class="fw-bold">IYSA Communicable Disease Release of Liability and Assumption of Risk Agreement</p>
+<a href="https://illinoisyouthsoccer.demosphere-secure.com/_files/forms/covid-19-resources/COVID-19%20WAIVER.pdf">Illinois
+  Youth Soccer: Communicable Disease Release Form</a>
+<p>We will also have extra forms at the first practice. Forms must be completed and submitted before player can
+  practice.</p>

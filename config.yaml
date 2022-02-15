@@ -1,0 +1,9 @@
+baseURL: 'https://www.robinsonsoccer.com'
+languageCode: 'en-us'
+title: 'Robinson Soccer'
+
+params:
+  banner:
+    bannerHeading: "2022 spring club registration begins online Feb. 14"
+    bannerBody: "The spring 2022 season will be open to all Crawford and Lawrence County, Illinois players!"
+    bannerFooter: "For more information, email: ilrobinsonsoccer@gmail.com."
