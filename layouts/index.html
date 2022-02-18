@@ -9,12 +9,12 @@
     <nav class="navbar navbar-dark bg-dark p-4" aria-label="Navigation menu">
       <div class="container">
         <a class="navbar-brand" href="/">
-          <img src="/img/robinsonsoccer5.png" alt="" class="d-none d-lg-block">
-          <img src="/img/robinsonsoccer6.png" alt="" class="d-lg-none">
+          <img src="/images/robinsonsoccer5.png" alt="" class="d-none d-lg-block">
+          <img src="/images/robinsonsoccer6.png" alt="" class="d-lg-none">
         </a>
         <button class="navbar-toggler bg-light" type="" data-bs-toggle="collapse" data-bs-target="#searchbarCollapse"
           aria-controls="searchbarCollapse" aria-expanded="false" aria-label="Toggle Searchbar">
-          <img src="/img/search.svg" alt="Search Icon">
+          <img src="/images/search.svg" alt="Search Icon">
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="searchbarCollapse">
           <form class="d-flex">
@@ -25,14 +25,14 @@
       </div>
     </nav>
 
-    <section class="container">
+    {{ partial "banner" . }}
 
-      {{/*  {{ partial "banner" . }} */}}
+    <section class="container">
       <div class="row">
         <div class="col-lg-6 mt-5">
           <div class="card">
             <a href="/youth">
-              <img src="/img/w-youth-soccer.png" class="card-img-top" alt="Youth Soccer">
+              <img src="/images/w-youth-soccer.png" class="card-img-top" alt="Youth Soccer">
             </a>
             <div class="card-body">
               <p class="card-text"><a href="#">Robinson Soccer Youth League</a> is fall program sponsored by the
@@ -48,7 +48,7 @@
         <div class="col-lg-6 mt-5">
           <div class="card">
             <a href="/club">
-              <img src="/img/w-soccer-club.png" class="card-img-top" alt="Youth Soccer">
+              <img src="/images/w-soccer-club.png" class="card-img-top" alt="Youth Soccer">
             </a>
             <div class="card-body">
               <p class="card-text"><a href="#">Robinson Soccer Club</a> includes coed U18, U14, U12 travel teams and U10
