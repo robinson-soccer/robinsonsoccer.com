@@ -1,14 +1,20 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: static/img
-public_folder: /img
+
+publish_mode: editorial_workflow
+media_folder: static/img/uploads
+public_folder: /img/uploads
+site_url: https://www.robinsonsoccer.com
+display_url: robinsonsoccer.com
+
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'club homepage'
+    label: 'Club Homepage'
+    description: 'Landing page for club soccer'
+    file: 'content/club/_index.md'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     editor:
       preview: true
     fields:
