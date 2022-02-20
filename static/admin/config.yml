@@ -11,7 +11,7 @@ collections:
   - name: 'club homepage'
     label: 'Club Homepage'
     description: 'Landing page for club soccer'
-    file: 'content/club/_index.md'
+    files: 'content/club/_index.md'
     create: true
     slug: '{{slug}}'
     editor:
