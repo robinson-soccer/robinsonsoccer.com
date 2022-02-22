@@ -16,7 +16,7 @@ collections:
   - name: "club"
     label: "Club"
     files:
-      - file: "content/club/_index.md"
+      - file: "content/club/"
         label: "Club Home"
         name: "home"
         fields:
