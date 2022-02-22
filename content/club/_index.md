@@ -8,20 +8,14 @@ flyer:
   img: "/img/uploads/club/spring-registration2022.jpg"
   caption: "U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade)"
   update: "Registration is open until March 14, 2022"
-  registration:
-    anchorText: 'Register Online'
-    url: 'https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit'
-# flyer2:
-#   heading: "League Registration - Spring 2022"
-#   img: "/img/club/spring-league2022.jpg"
-#   description: "U10 (3rd & 4th Grade)"
-#   update: "Registration is open until March 21, 2022"
 
-# flyer3:
-#   heading:
-#   img:
-#   description:
-#   update:
+register:
+  text: 'Register Online'
+  url: 'https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit'
+
+pay:
+  text: 'Pay Online'
+  url: 'https://buy.stripe.com/00gcOL2y1fWT7ks001'
 
 clubInfo:
   heading: "Robinson Soccer Club"

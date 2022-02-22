@@ -15,17 +15,22 @@ public_folder: /img/uploads
 collections:
   - name: "club pages"
     label: "Club Pages"
+    create: true
     files:
       - file: "site/content/club/_index.md"
         label: "Home Page"
         name: "home"
         fields:
-          - {label: Flyer, name: flyer, widget: object, fields: [
+          - {label: Flyer, name: flyer, widget: list, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
-              {label: Caption, name: caption, widget: text},
+              {label: Caption, name: caption, widget: string},
               {label: Update, name: update, widget: string}
               ]}
+          - {label: Registeration Link, name: register, widget: object, fields: [
+              {label: Text, name: text, widget: string}
+              {label: URL, name: url, widget: string}
+          ]}
           - {label: "Club Info", name: club info, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}

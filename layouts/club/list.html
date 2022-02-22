@@ -14,7 +14,8 @@
           <img src="{{ .Params.flyer.img }}" alt="" class="img-fluid">
           <p class="mt-3">{{ .Params.flyer.caption }}</p>
           <p class="text-danger">{{ .Params.flyer.update }}</p>
-          <a href="{{ .Params.flyer.registration.url }}">{{ .Params.flyer.registration.anchorText }}</a>
+          <p><a href="{{ .Params.register.url }}">{{ .Params.register.text }}</a></p>
+          <p><a href="{{ .Params.pay.url }}">{{ .Params.pay.text }}</a></p>
         </div>
         {{/*  <div class="flyer2 mt-5">
           <h2 class="mb-4">{{ .Params.flyer2.heading }}</h2>
