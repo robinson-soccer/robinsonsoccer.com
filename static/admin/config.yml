@@ -13,13 +13,12 @@ public_folder: /img/uploads
 # display_url: robinsonsoccer.com
 
 collections:
-  - name: "club pages"
+  - name: "club"
     label: "Club Pages"
-    create: true
     files:
       - file: "site/content/club/_index.md"
         label: "Home Page"
-        name: "home"
+        name: "club"
         fields:
           - {label: Flyer, name: flyer, widget: list, fields: [
               {label: "Heading", name: "heading", widget: string},
