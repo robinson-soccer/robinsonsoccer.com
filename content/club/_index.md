@@ -4,10 +4,10 @@ date: 2022-02-04T10:14:14-06:00
 draft: false
 
 flyer:
-  heading: "Club Registration - Spring 2022"
-  img: "/img/uploads/club/spring-registration2022.jpg"
-  caption: "U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade)"
-  update: "Registration is open until March 14, 2022"
+  heading: 
+  img: 
+  caption: 
+  update: 
 
 register:
   text: 'Register Online'
