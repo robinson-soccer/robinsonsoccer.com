@@ -3,11 +3,6 @@ title: "Club Home"
 date: 2022-02-04T10:14:14-06:00
 draft: false
 
-flyer:
-  heading: 
-  img: 
-  caption: 
-  update: 
 
 register:
   text: 'Register Online'
