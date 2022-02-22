@@ -14,11 +14,11 @@ public_folder: /img/uploads
 
 collections:
   - name: "club"
-    label: "Club Pages"
+    label: "Club"
     files:
-      - file: "site/content/club/_index.md"
-        label: "Home Page"
-        name: "club"
+      - file: "content/club/_index.md"
+        label: "Club Home"
+        name: "home"
         fields:
           - {label: Flyer, name: flyer, widget: list, fields: [
               {label: "Heading", name: "heading", widget: string},
