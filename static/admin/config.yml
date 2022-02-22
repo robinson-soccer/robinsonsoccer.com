@@ -16,9 +16,9 @@ collections:
   - name: "club"
     label: "Club"
     files:
-      - file: "content/club/"
+      - file: "content/club/_index.md"
         label: "Club Home"
-        name: "home"
+        name: "club home"
         fields:
           - {label: Flyer, name: flyer, widget: list, fields: [
               {label: "Heading", name: "heading", widget: string},
