@@ -8,12 +8,12 @@ flyer1:
   img: /img/uploads/spring-registration2022.jpg
   caption: " U12 (5th & 6th Grade) • U14 (7th & 8th Grade) • U18 (High School)"
   update: Registration is open till March 14, 2022
-  register:
-    text: Register Online
-    url: https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit
-  pay:
-    text: Pay Online
-    url: https://buy.stripe.com/00gcOL2y1fWT7ks001
+register:
+  text: Register Online
+  url: https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit
+pay:
+  text: Pay Online
+  url: https://buy.stripe.com/00gcOL2y1fWT7ks001
 
 clubInfo:
   heading: Robinson Soccer Club
