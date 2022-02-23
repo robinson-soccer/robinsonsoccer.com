@@ -8,7 +8,8 @@ menu:
     parent: "u12"
     weight: 110
 
-calendar:
+schedule:
+  url:
 ---
 
 {{< club/u12-schedule >}}

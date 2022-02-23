@@ -7,6 +7,9 @@ menu:
     name: "U14 Roster"
     parent: "u14"
     weight: 100
+
+roster:
+  url:
 ---
 
 {{< roster-table table_class="table" >}}

@@ -7,6 +7,9 @@ menu:
     name: "U18 Schedule"
     parent: "u18"
     weight: 110
+
+schedule:
+  url:
 ---
 
 {{< club/u18-schedule >}}
