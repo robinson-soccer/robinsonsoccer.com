@@ -37,7 +37,7 @@ collections:
           - {label: Main Content, name: body, widget: markdown}
       - label: "U12"
         name: "u12"
-        files:
+        fields:
           - file: "content/club/u12/roster.md"
             label: "Roster"
             name: "roster"
@@ -56,7 +56,7 @@ collections:
                   {label: URL, name: "url", widget: string}]}
       - label: "U14"
         name: "u14"
-        files:
+        fields:
           - file: "content/club/u14/roster.md"
             label: "Roster"
             name: "roster"
@@ -75,7 +75,7 @@ collections:
                   {label: URL, name: "url", widget: string}]}
       - label: "U18"
         name: "u18"
-        files:
+        fields:
           - file: "content/club/u18/roster.md"
             label: "Roster"
             name: "roster"
