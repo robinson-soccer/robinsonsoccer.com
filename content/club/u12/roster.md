@@ -1,14 +1,13 @@
 ---
-title: "U12 Roster"
+title: U12 Roster
 date: 2022-02-01T09:26:42-06:00
 draft: false
 menu:
   club:
-    name: "U12 Roster"
-    parent: "u12"
+    name: U12 Roster
+    parent: u12
     weight: 100
-
-roster:
+roster: /img/uploads/2021-major-league-schedule.pdf
 ---
 
 {{< roster >}}
