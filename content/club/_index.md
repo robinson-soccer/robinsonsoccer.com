@@ -2,6 +2,7 @@
 title: Club Home
 date: 2022-02-04T10:14:14-06:00
 draft: false
+
 flyer1:
   heading: Club Registration - Spring 2022
   img: /img/uploads/spring-registration2022.jpg
@@ -13,6 +14,7 @@ flyer1:
   pay:
     text: Pay Online
     url: https://buy.stripe.com/00gcOL2y1fWT7ks001
+
 clubInfo:
   heading: Robinson Soccer Club
   text: Robinson Soccer has expanded from offering recreational soccer through the
