@@ -9,14 +9,12 @@ menu:
     weight: 100
 
 roster:
-  url:
-
-
-  
+  image: 
 ---
 
-<!-- {{< table >}} -->
+{{< roster >}}
 
+<!--
 {{< roster-table table_class="table" >}}
 
 | #  | Name        |
@@ -37,4 +35,4 @@ roster:
 
 {{< /roster-table >}}
 
-**Head Coach:** Tanya Reed
+**Head Coach:** Tanya Reed -->

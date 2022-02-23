@@ -9,10 +9,12 @@ menu:
     weight: 100
 
 roster:
-  url:
+  image:
 ---
 
-{{< roster-table table_class="table" >}}
+{{< roster >}}
+
+<!-- {{< roster-table table_class="table" >}}
 
 | #  | Name        |
 |----|-------------|
@@ -35,4 +37,4 @@ roster:
 
 {{< /roster-table >}}
 
-**Head Coach:** Mark Hermann
+**Head Coach:** Mark Hermann -->

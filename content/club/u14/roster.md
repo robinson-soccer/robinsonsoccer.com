@@ -9,10 +9,12 @@ menu:
     weight: 100
 
 roster:
-  url:
+  image:
 ---
 
-{{< roster-table table_class="table" >}}
+{{< roster >}}
+
+<!-- {{< roster-table table_class="table" >}}
 
 | #  | Name        |
 |----|-------------|
@@ -34,4 +36,4 @@ roster:
 
 {{< /roster-table >}}
 
-**Head Coach:** Hillary Maxwell
+**Head Coach:** Hillary Maxwell -->

@@ -9,7 +9,9 @@ menu:
     weight: 110
 
 schedule:
-  url:
+  image:
 ---
 
-{{< club/u18-schedule >}}
+{{< schedule >}}
+
+<!-- {{< club/u18-schedule >}} -->
