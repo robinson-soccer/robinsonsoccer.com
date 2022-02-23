@@ -11,21 +11,23 @@ public_folder: /img/uploads
 # display_url: robinsonsoccer.com
 
 collections:
-
-  - name: "club"
-    label: "Club"
+  - label: "Club"
+    name: "club"
     files:
-      - file: "content/club/_index.md"
-        label: "Home"
+      - label: "Home"
         name: "home"
+        file: "content/club/_index.md"
         fields:
           - {label: Title, name: "title", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Flyer, name: "flyer", widget: list, fields: [
-              {label: Heading, name: "heading", widget: string},
-              {label: Image, name: "img", widget: image},
-              {label: Caption, name: "caption", widget: string},
-              {label: Update, name: "update", widget: string}]}
+          - label: Flyer
+            name: "flyer"
+            widget: list
+            fields:
+              - {label: Heading, name: "heading", widget: string}
+              - {label: Image, name: "img", widget: image}
+              - {label: Caption, name: "caption", widget: string}
+              - {label: Update, name: "update", widget: string}
           - {label: Registeration Link, name: "register", widget: object, fields: [
               {label: Text, name: "text", widget: string},
               {label: URL, name: "url", widget: string}]}
