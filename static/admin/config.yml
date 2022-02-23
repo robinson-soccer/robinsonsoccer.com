@@ -20,11 +20,17 @@ collections:
         fields:
           - {label: Title, name: "title", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Flyer, name: "flyer", widget: object, fields: [
+          - {label: Flyer1, name: "flyer1", widget: object, fields: [
               {label: Heading, name: "heading", widget: string},
               {label: Image, name: "img", widget: image},
               {label: Caption, name: "caption", widget: string},
               {label: Update, name: "update", widget: string}]}
+            - {label: Registration Link, name: register, widget: object, fields: [
+                {label: Link Text, name: text, widget: string},
+                {label: URL, name: url, widget: string}]}
+            - {label: Payment Link, name: pay, widget: object, fields: [
+                {label: Link Text, name: text, widget: string},
+                {label: URL, name: url, widget: string}]}
           - {label: "Club Info", name: "clubInfo", widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
