@@ -13,7 +13,8 @@ public_folder: /img/uploads
 collections:
   - label: "Club"
     name: "club"
-    files:
+    folder: content/club
+    create: false
       - file: "content/club/_index.md"
         label: "Home"
         name: "home"
