@@ -10,6 +10,9 @@ menu:
     weight: 100
 roster: /img/uploads/2021-major-league-schedule.pdf
 ---
+## U12 Roster
+
+![](/img/uploads/club-uniform.jpg)
 
 {{< roster >}}
 
@@ -34,4 +37,8 @@ roster: /img/uploads/2021-major-league-schedule.pdf
 
 {{< /roster-table >}}
 
-**Head Coach:** Tanya Reed -->
+
+![]()
+
+
+\*\*Head Coach:\*\* Tanya Reed -->
