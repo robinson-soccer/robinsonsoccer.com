@@ -1,14 +1,14 @@
 ---
 title: U12 Roster
 heading: U12 Roster
-date: 2022-02-01T09:26:42-06:00
+date: 2022-02-23T22:56:41.931Z
 draft: false
 menu:
   club:
     name: U12 Roster
     parent: u12
     weight: 100
-roster: /img/uploads/club-uniform.jpg
+roster: /img/uploads/2021-major-league-schedule.pdf
 ---
 {{< roster >}}
 
@@ -33,4 +33,4 @@ roster: /img/uploads/club-uniform.jpg
 
 {{< /roster-table >}}
 
-\\*\\*Head Coach:\\*\\* Tanya Reed -->
+\\\*\\\*Head Coach:\\\*\\\* Tanya Reed -->
