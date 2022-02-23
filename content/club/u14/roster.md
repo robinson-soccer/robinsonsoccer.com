@@ -1,5 +1,6 @@
 ---
 title: "U14 Roster"
+heading: U14 Roster
 date: 2022-02-01T09:28:52-06:00
 draft: false
 menu:
@@ -9,7 +10,6 @@ menu:
     weight: 100
 
 roster:
-  image:
 ---
 
 {{< roster >}}

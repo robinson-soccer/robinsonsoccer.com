@@ -1,5 +1,6 @@
 ---
 title: "U14 Schedule"
+heading: U14 Schedule
 date: 2022-02-01T09:28:29-06:00
 draft: false
 menu:
@@ -9,7 +10,6 @@ menu:
     weight: 110
 
 schedule:
-  image:
 ---
 
 {{< schedule >}}

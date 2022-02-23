@@ -40,51 +40,46 @@ collections:
         label: "U12 Roster"
         name: "u12 roster"
         fields:
-          - {label: Title, name: "title", widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Roster Files, name: "roster", widget: file}
+          - {label: Roster, name: "roster", widget: file}
       - file: "content/club/u12/schedule.md"
         label: "U12 Schedule"
         name: "u12 schedule"
         fields:
-          - {label: Title, name: "title", widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Schedule Image, name: "schedule", widget: object, fields: [
-              {label: Image, name: "image", widget: image}]}
+          - {label: Schedule, name: "schedule", widget: file}
 
       - file: "content/club/u14/roster.md"
         label: "U14 Roster"
         name: "u14 roster"
         fields:
-          - {label: Title, name: "title", widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Roster Image, name: "roster", widget: object, fields: [
-              {label: Image, name: "image", widget: image}]}
+          - {label: Roster, name: "roster", widget: file}
       - file: "content/club/u14/schedule.md"
         label: "U14 Schedule"
         name: "U14 schedule"
         fields:
-          - {label: Title, name: "title", widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Schedule Image, name: "schedule", widget: object, fields: [
-              {label: Image, name: "image", widget: image}]}
+          - {label: Schedule, name: "schedule", widget: file}
 
       - file: "content/club/u18/roster.md"
         label: "U18 Roster"
         name: "u18 roster"
         fields:
-          - {label: Title, name: "title", widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Roster Image, name: "roster", widget: object, fields: [
-              {label: Image, name: "image", widget: image}]}
+          - {label: Roster, name: "roster", widget: file}
       - file: "content/club/u18/schedule.md"
         label: "U18 Schedule"
         name: "u18 schedule"
         fields:
-          - {label: Title, name: "title", widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Schedule Image, name: "schedule", widget: object, fields: [
-              {label: Image, name: "image", widget: image}]}
+          - {label: Schedule, name: "schedule", widget: file}
 
   - name: "youth"
     label: "Youth"
