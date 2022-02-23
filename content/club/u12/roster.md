@@ -9,7 +9,6 @@ menu:
     weight: 100
 
 roster:
-  image: 
 ---
 
 {{< roster >}}
