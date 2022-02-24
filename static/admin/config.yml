@@ -21,8 +21,8 @@ collections:
         name: "announcement"
         fields:
           - {label: Banner, name: "params", widget: object, fields: [
-              {label: Heading, name: "bannerHeading", widget: string}
-              {label: Body, name: "bannerBody", widget: string}
+              {label: Heading, name: "bannerHeading", widget: string},
+              {label: Body, name: "bannerBody", widget: string},
               {label: Footer, name: "bannerFooter", widget: string}]}
 
   - label: "Club"
