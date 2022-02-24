@@ -13,6 +13,17 @@ public_folder: /img/uploads
 # display_url: robinsonsoccer.com
 
 collections:
+  - label: "Site"
+    name: "site"
+    files:
+      - file: "config.yml"
+        label: "Banner"
+        name: "banner"
+        fields: 
+          - {label: Heading, name: "bannerHeading", widget: string}
+          - {label: Body, name: "bannerBody", widget: string}
+          - {label: Footer, name: "bannerFooter", widget: string}
+
   - label: "Club"
     name: "club"
     files:
