@@ -10,3 +10,5 @@ menu:
     parent: info
     weight: 100
 ---
+
+{{< club/fundraiser>}}
