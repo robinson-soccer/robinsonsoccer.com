@@ -16,7 +16,7 @@ collections:
   - label: "Site"
     name: "site"
     files:
-      - file: "/config.yml"
+      - file: "config.yml"
         label: "Announcement Banner"
         name: "announcement"
         fields:
