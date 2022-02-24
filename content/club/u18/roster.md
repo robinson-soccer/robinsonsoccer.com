@@ -9,7 +9,7 @@ menu:
     parent: "u18"
     weight: 100
 
-roster:
+roster: /img/uploads/test-roster.pdf
 ---
 
 {{< roster >}}

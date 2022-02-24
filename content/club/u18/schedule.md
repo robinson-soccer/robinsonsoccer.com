@@ -9,7 +9,7 @@ menu:
     parent: "u18"
     weight: 110
 
-schedule:
+schedule: "https://calendar.google.com/calendar/embed?src=1ok3bf2bb0965fnsdn6dm2ti68%40group.calendar.google.com&ctz=America%2FChicago"
 ---
 
 {{< schedule >}}
