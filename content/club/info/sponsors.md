@@ -9,17 +9,16 @@ menu:
     parent: "info"
     weight: 120
 
-sponsors:
-    - First Robinson Savings Bank
-    - Casey State Bank
-    - Monical's
-    - First National Bank in Olney
-    - Lincolnland Agri-Energy LLC
-    - Schaefer Family Dental
-    - Marathon
-    - Elks
-    - Crawford County Real Estate Inc.
+# sponsors:
+#     - First Robinson Savings Bank
+#     - Casey State Bank
+#     - Monical's
+#     - First National Bank in Olney
+#     - Lincolnland Agri-Energy LLC
+#     - Schaefer Family Dental
+#     - Marathon
+#     - Elks
+#     - Crawford County Real Estate Inc.
 
 
 ---
-{{< club/sponsors >}}

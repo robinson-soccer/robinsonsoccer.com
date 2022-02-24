@@ -96,8 +96,8 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: File or Image, name: fileImage, widget: file}
-
+          - {label: Image, name: Image, widget: image}
+          
       - file: "content/club/info/rules.md"
         label: "Rules"
         name: "rules"
@@ -120,8 +120,7 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Sponsor List, name: sponsor, widget: object, fields: [
-              {label: List, name: sponsors, widget: list}]}
+          - {label: Body, name: body, widget: markdown}
 
   - name: "youth"
     label: "Youth"
