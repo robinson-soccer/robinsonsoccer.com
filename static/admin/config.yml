@@ -120,7 +120,8 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Sponsors, name: sponsors, widget: list}
+          - {label: Sponsors, name: sponsors, widget: object, field: [
+              {label: List, name: sponsors, widget: list}]}
 
   - name: "youth"
     label: "Youth"
