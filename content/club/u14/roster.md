@@ -11,10 +11,9 @@ menu:
 
 roster:
 ---
-
 {{< roster >}}
 
-<!-- {{< roster-table table_class="table" >}}
+ <!-- {{< roster-table table_class="table" >}}
 
 | #  | Name        |
 |----|-------------|
