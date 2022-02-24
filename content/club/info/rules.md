@@ -3,6 +3,7 @@ title: "Rules"
 date: 2022-02-06T10:43:16-06:00
 draft: false
 heading: Rules
+fileImage: /img/uploads/ecisc-rules.rtf
 menu:
   club:
     name: "Rules"
@@ -10,7 +11,10 @@ menu:
     weight: 110
 ---
 
-**EAST CENTRAL ILLINOIS SOCCER CONFERENCE RULES Adopted August 9, 2018; amended August 7, 2019** 
+{{< club/rules >}}
+
+
+<!-- **EAST CENTRAL ILLINOIS SOCCER CONFERENCE RULES Adopted August 9, 2018; amended August 7, 2019** 
 
 **RULE 1:**
 
@@ -119,7 +123,7 @@ Age Eligibility.
 
 (Adopted 8-9-18; amended 8-7-19 by striking the words “and must be in the 6th grade or a lower grade” from the end of paragraph  d). 
 
-**RULE 5** 
+**RULE 5:** 
 
 Residence Eligibility / Recruitment of Players. 
 
@@ -133,7 +137,7 @@ Residence Eligibility / Recruitment of Players.
 
 (Adopted 8-9-18). 
 
-**RULE 6** 
+**RULE 6:** 
 
 Special Rules Applicable to U12 Division. 
 
@@ -143,7 +147,7 @@ Special Rules Applicable to U12 Division.
 
 (Adopted 8-9-18; amended 8-7-19 by changing paragraph c from “size 5” to “size 4”).  
 
-**RULE 7** 
+**RULE 7:** 
 
 Rules on Heading the Ball. 
 
@@ -159,4 +163,4 @@ Rules on Heading the Ball.
 
 (c) In matches played in the U12 Division, no intentional heading of the ball shall be allowed  whatsoever. Should a player intentionally head the ball, the proper restart shall be an indirect free kick  for the opposing team at the spot of the offense.  
 
-(Adopted 8-9-18).
+(Adopted 8-9-18). -->

@@ -3,7 +3,7 @@ title: Fundraisers
 date: 2022-02-24T00:22:02.217Z
 draft: false
 heading: Fundraisers
-image: /img/uploads/coming-soon.jpg
+fileImage: /img/uploads/coming-soon.jpg
 menu:
   club:
     name: Fundraisers
@@ -11,4 +11,4 @@ menu:
     weight: 100
 ---
 
-{{< coming-soon >}}
+{{< club/fundraiser >}}
