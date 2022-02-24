@@ -1,18 +1,18 @@
 ---
-title: Rules
-date: 2022-02-24T16:46:05.884Z
+title: "Rules"
+date: 2022-02-06T10:43:16-06:00
 draft: false
 heading: Rules
-fileImage: /img/uploads/ecisc-rules.rtf
 menu:
   club:
-    name: Rules
-    parent: info
+    name: "Rules"
+    parent: "info"
     weight: 110
 ---
-\*\*EAST CENTRAL ILLINOIS SOCCER CONFERENCE RULES Adopted August 9, 2018; amended August 7, 2019\*\* 
 
-\*\*RULE 1:\*\*
+**EAST CENTRAL ILLINOIS SOCCER CONFERENCE RULES Adopted August 9, 2018; amended August 7, 2019** 
+
+**RULE 1:**
 
 Governing Rules:
 
@@ -20,7 +20,7 @@ The East Central Illinois Soccer Conference (hereinafter “ECISC”) shall be  
 
 (Adopted 8-9-18). 
 
-\*\*RULE 2:\*\* 
+**RULE 2:** 
 
 Referees:  
 
@@ -30,7 +30,9 @@ The host team shall supply a minimum of two (2) qualified referees for each matc
 
   1. Is currently, or has been within the past three (3) years, a licensed USSF or IHSA soccer  referee; or 
 
-  2. Is currently, or has been within the past three (3) years, an IHSA varsity soccer player.   (b) U12 Division 
+  2. Is currently, or has been within the past three (3) years, an IHSA varsity soccer player.   
+  
+(b) U12 Division 
 
 The host team shall supply a minimum of two (2) qualified referees for each match. In order to be  considered “qualified”, a referee should be at least a freshman in high school and should fall into one  or more of the following categories: 
 
@@ -38,11 +40,13 @@ The host team shall supply a minimum of two (2) qualified referees for each matc
 
   2. Has a minimum of three (3) years soccer playing experience.  (Adopted 8-9-18). 
 
-\*\*RULE 3:\*\* 
+**RULE 3:** 
 
 League Score Sharing.  
 
-(a) In order to facilitate the sharing of knowledge across the league necessary to properly seed  teams for the post-season tournament, a League Score Sharing system should be established.   (b) In order to implement this Rule, the following protocol shall be established: 
+(a) In order to facilitate the sharing of knowledge across the league necessary to properly seed  teams for the post-season tournament, a League Score Sharing system should be established.
+
+(b) In order to implement this Rule, the following protocol shall be established: 
 
   1. The Commissioner shall initiate a group email to be sent to the coach of each team in  the league; 
 
@@ -50,7 +54,7 @@ League Score Sharing.
 
 (Adopted 8-9-18). 
 
-\*\*RULE 4:\*\* 
+**RULE 4:** 
 
 Age Eligibility.  
 
@@ -59,6 +63,7 @@ Age Eligibility.
 (b) Should any team have a player on its roster who is in the 8th grade or lower, but whose birthdate  is before the cut-off date for the year in question (see Table in subparagraph c of this Rule), a coach may request that said player be granted eligibility to play during the ECISC U14 regular season. The  protocol for such a request shall be as follows: 
 
   1. The coach requesting eligibility for such a player should send a written request to the  Commissioner, requesting eligibility be granted to the player for the regular season.
+  
   2. Said request shall contain, at a minimum, the following details: 
 
       a. The player’s name and date of birth; 
@@ -119,7 +124,7 @@ Age Eligibility.
 
 (Adopted 8-9-18; amended 8-7-19 by striking the words “and must be in the 6th grade or a lower grade” from the end of paragraph  d). 
 
-\*\*RULE 5:\*\* 
+**RULE 5:** 
 
 Residence Eligibility / Recruitment of Players. 
 
@@ -133,17 +138,19 @@ Residence Eligibility / Recruitment of Players.
 
 (Adopted 8-9-18). 
 
-\*\*RULE 6:\*\* 
+**RULE 6:** 
 
 Special Rules Applicable to U12 Division. 
 
 (a) Play shall be between two (2) teams comprised of nine (9) players per side, including a  goalkeeper. 
 
-(b) Matches shall be of two (2) halves, each of which is thirty (30) minutes in length.  (c) A size 4 ball shall be used in all matches. 
+(b) Matches shall be of two (2) halves, each of which is thirty (30) minutes in length.
+
+(c) A size 4 ball shall be used in all matches. 
 
 (Adopted 8-9-18; amended 8-7-19 by changing paragraph c from “size 5” to “size 4”).  
 
-\*\*RULE 7:\*\* 
+**RULE 7:** 
 
 Rules on Heading the Ball. 
 
@@ -155,7 +162,9 @@ Rules on Heading the Ball.
 
   2. Players age 11 through 13 shall be limited to thirty (30) minutes of heading training  per week, with no more than 15 to 20 headers per player per week. 
 
-  3. No player may intentionally head the ball received from a goal kick or a goal punt. 4. Should a player intentionally head the ball, the proper restart shall be an indirect free  kick for the opposing team at the spot of the offense. If the deliberate header occurs  within the goal area, the indirect free kick should be taken on the goal area line parallel  to the goal line at the point nearest to where the infringement occurred. 
+  3. No player may intentionally head the ball received from a goal kick or a goal punt.
+  
+  4. Should a player intentionally head the ball, the proper restart shall be an indirect free  kick for the opposing team at the spot of the offense. If the deliberate header occurs  within the goal area, the indirect free kick should be taken on the goal area line parallel  to the goal line at the point nearest to where the infringement occurred. 
 
 (c) In matches played in the U12 Division, no intentional heading of the ball shall be allowed  whatsoever. Should a player intentionally head the ball, the proper restart shall be an indirect free kick  for the opposing team at the spot of the offense.  
 
