@@ -1,13 +1,13 @@
 ---
-title: "Fundraisers"
-date: 2022-02-06T10:43:24-06:00
+title: Fundraisers
+date: 2022-02-24T00:22:02.217Z
 draft: false
 heading: Fundraisers
-image: 
+image: /img/uploads/coming-soon.jpg
 menu:
   club:
-    name: "Fundraisers"
-    parent: "info"
+    name: Fundraisers
+    parent: info
     weight: 100
 ---
 
