@@ -2,6 +2,7 @@
 title: "Sponsors"
 date: 2022-02-06T10:41:38-06:00
 draft: false
+heading: Sponsors / Donations
 menu:
   club:
     name: "Sponsors"

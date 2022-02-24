@@ -2,6 +2,7 @@
 title: "Rules"
 date: 2022-02-06T10:43:16-06:00
 draft: false
+heading: Rules
 menu:
   club:
     name: "Rules"

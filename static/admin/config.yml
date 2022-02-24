@@ -18,7 +18,6 @@ collections:
         label: "Home"
         name: "home"
         fields:
-          - {label: Title, name: "title", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Flyer1, name: "flyer1", widget: object, fields: [
               {label: Heading, name: "heading", widget: string},
@@ -81,6 +80,45 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Schedule, name: "schedule", widget: file}
+
+      - file: "content/club/registration/index.md"
+        label: "Registration"
+        name: "registration"
+        fields:
+          - {label: Heading, name: heading, widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+
+      - file: "content/club/info/fundraisers.md"
+        label: "Fundraisers"
+        name: "fundraisers"
+        fields:
+          - {label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Image, name: image, widget: image}
+
+      - file: "content/club/info/rules.md"
+        label: "Rules"
+        name: "rules"
+        fields:
+          - {label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: body, widget: markdown}
+
+      - file: "content/club/info/uniforms.md"
+        label: "Uniforms"
+        name: "Uniforms"
+        fields:
+          - {label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Image, name: image, widget: image}
+
+      - file: "content/club/info/sponsors.md"
+        label: "Sponsors"
+        name: "sponsors"
+        fields:
+          - {label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: date, widget: datetime}
+          - {label: Sponsors, name: sponsors, widget: list}
 
   - name: "youth"
     label: "Youth"
