@@ -13,6 +13,7 @@ public_folder: /img/uploads
 # display_url: robinsonsoccer.com
 
 collections:
+
   - label: "Announcements"
     name: "Announcements"
     files:
@@ -20,14 +21,14 @@ collections:
         label: "Banner"
         name: "banner"
         fields:
-          - label: Banner Content
+          - label: Content
             name: "params"
             widget: object
             fields:
-              - {label: Heading, name: "bannerHeading", widget: string}
-              - {label: Body, name: "bannerBody", widget: string}
-              - {label: Footer, name: "bannerFooter", widget: string}
-
+              - {label: Line One, name: "lineOne", widget: string}
+              - {label: Line Two, name: "lineTwo", widget: string}
+              - {label: Line Three, name: "lineThree", widget: string}
+# Club Folder - start
   - label: "Club"
     name: "club"
     files:
@@ -60,6 +61,7 @@ collections:
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Roster, name: "roster", widget: file}
           - {label: Body, name: body, widget: markdown}
+
       - file: "content/club/u12/schedule.md"
         label: "U12 Schedule"
         name: "u12 schedule"
@@ -75,6 +77,7 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Roster, name: "roster", widget: file}
+
       - file: "content/club/u14/schedule.md"
         label: "U14 Schedule"
         name: "U14 schedule"
@@ -90,6 +93,7 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Roster, name: "roster", widget: file}
+
       - file: "content/club/u18/schedule.md"
         label: "U18 Schedule"
         name: "u18 schedule"
@@ -136,7 +140,8 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
-
+# Club folder - end
+# Youth folder - start
   - name: "youth"
     label: "Youth"
     files:
@@ -147,4 +152,4 @@ collections:
           - {label: Title, name: "title", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
             
-
+# Youth folder - end

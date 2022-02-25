@@ -3,6 +3,6 @@ languageCode: 'en-us'
 title: 'Robinson Soccer'
 
 params:
-  bannerHeading: "Register Online Now!"
-  bannerBody: "The spring 2022 season will be open to all Crawford and Lawrence County, Illinois players!"
-  bannerFooter: "For more information, email: ilrobinsonsoccer@gmailcom."
+  lineOne: "Register Online Now!"
+  lineTwo: "The spring 2022 season will be open to all Crawford and Lawrence County, Illinois players!"
+  lineThree: "For more information, email: ilrobinsonsoccer@gmailcom."
