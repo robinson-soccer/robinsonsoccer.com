@@ -136,7 +136,7 @@ collections:
 
   - name: "youth"
     label: "Youth"
-    files: '_youth'
+    files: 'youth'
       - file: "content/youth/_index.md"
         label: "Home"
         name: "home"
