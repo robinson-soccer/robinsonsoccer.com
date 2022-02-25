@@ -138,12 +138,11 @@ collections:
     label: "Youth"
     folder: '_youth'
     create: false
-    : 
-      # - file: "content/youth/_index.md"
-      #   label: "Home"
-      #   name: "home"
-      #   fields: 
-      #     - {label: Title, name: "title", widget: string}
-      #     - {label: Publish Date, name: "date", widget: datetime}
+      - file: "content/youth/_index.md"
+        label: "Home"
+        name: "home"
+        fields: 
+          - {label: Title, name: "title", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
             
 
