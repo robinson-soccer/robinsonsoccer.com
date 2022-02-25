@@ -13,17 +13,20 @@ public_folder: /img/uploads
 # display_url: robinsonsoccer.com
 
 collections:
-  - label: "Site"
-    name: "site"
+  - label: "Announcements"
+    name: "Announcements"
     files:
       - file: "config.yml"
-        label: "Announcements"
-        name: "announcement"
+        label: "Banner"
+        name: "banner"
         fields:
-          - {label: Banner, name: "params", widget: object, fields: [
-              {label: Heading, name: "bannerHeading", widget: string},
-              {label: Body, name: "bannerBody", widget: string},
-              {label: Footer, name: "bannerFooter", widget: string}]}
+          - label: Banner Content
+            name: "params"
+            widget: object
+            fields:
+              - {label: Heading, name: "bannerHeading", widget: string}
+              - {label: Body, name: "bannerBody", widget: string}
+              - {label: Footer, name: "bannerFooter", widget: string}
 
   - label: "Club"
     name: "club"
