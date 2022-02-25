@@ -149,7 +149,14 @@ collections:
         label: "Home"
         name: "home"
         fields: 
-          - {label: Title, name: "title", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
+          - label: Flyer
+            name: 'flyer'
+            widget: list
+            fields:
+              - {label: Heading, name: 'heading', widget: string}
+              - {label: Image, name: 'image', widget: image}
+              - {label: Description, name: 'description', widget: string}
+              - {label: Update, name: 'update', widget: string}
             
 # Youth folder - end
