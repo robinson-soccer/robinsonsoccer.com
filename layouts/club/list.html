@@ -1,46 +1,25 @@
 {{ define "main" }}
-
 {{ partial "nav/club-nav" . }}
-
-
 {{ partial "banner" . }}
-
 <div class="container">
-  <section class="row g-5">
-    <main class="col-lg-8">
+  <main class="row g-5">
+    <section class="col-lg-8">
       <div class="p-4 shadow">
-        <div class="flyer1">
-          <h2 class="mb-4">{{ .Params.flyer1.heading }}</h2>
-          <img src="{{ .Params.flyer1.img }}" alt="" class="img-fluid">
-          <p class="mt-3">{{ .Params.flyer1.caption }}</p>
-          <p class="text-danger">{{ .Params.flyer1.update }}</p>
-          <p><a href="{{ .Params.flyer1.register.url }}">{{ .Params.flyer1.register.text }}</a></p>
-          <p><a href="{{ .Params.flyer1.pay.url }}">{{ .Params.flyer1.pay.text }}</a></p>
+        {{ range  .Params.flyer}}
+        <div class="flyer pb-4">
+          <h2>{{ .heading }}</h2>
+          <img src="{{ .image }}" alt="" class="img-fluid py-4">
+          <p>{{ .description }}</p>
+          <p class="text-danger">{{ .update }}</p>
+          <p><a href="{{ .regURL }}">{{ .regText }}</a></p>
+          <p><a href="{{ .payURL }}">{{ .payText }}</a></p>
         </div>
-        {{/*  <div class="flyer2 mt-5">
-          <h2 class="mb-4">{{ .Params.flyer2.heading }}</h2>
-        <img src="{{ .Params.flyer2.img }}" alt="" class="img-fluid">
-        <p class="mt-3">{{ .Params.flyer2.description }}</p>
-        <p class="text-danger">UPDATE: {{ .Params.flyer2.update }}</p>
-        <a href="https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit">Register
-          Online</a>
+        {{ end }}
       </div>
-      <div class="flyer3 mt-5">
-        <h2 class="mb-4">{{ .Params.flyer3.heading }}</h2>
-        <img src="{{ .Params.flyer3.img }}" alt="" class="img-fluid">
-        <p class="mt-3">{{ .Params.flyer3.description }}</p>
-        <p class="text-danger">UPDATE: {{ .Params.flyer3.update}}</p>
-        <a href="https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit">Register
-          Online</a> */}}
-        {{/*  </div>  */}}
-        <div class="mt-5">
-          <h3 class="mb-4">{{ .Params.clubInfo.heading }}</h3>
-          <p>{{ .Params.clubInfo.text }}</p>
-        </div>
-      </div>
-    </main>
+    </section>
     {{ partial "sidebar" . }}
-  </section>
+  </main>
 </div>
+{{ partial "club-info" . }}
 {{ partial "footer/club-footer" . }}
 {{ end }}

@@ -37,21 +37,27 @@ collections:
         name: "home"
         fields:
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Flyer1, name: "flyer1", widget: object, fields: [
-              {label: Heading, name: "heading", widget: string},
-              {label: Image, name: "img", widget: image},
-              {label: Caption, name: "caption", widget: string},
-              {label: Update, name: "update", widget: string}]}
-          - {label: Registration Link, name: register, widget: object, fields: [
-              {label: Link Text, name: text, widget: string},
-              {label: URL, name: url, widget: string}]}
-          - {label: Payment Link, name: pay, widget: object, fields: [
-              {label: Link Text, name: text, widget: string},
-              {label: URL, name: url, widget: string}]}
-          - {label: "Club Info", name: "clubInfo", widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
-              {label: "Text", name: "text", widget: "text"}]}
-          - {label: Main Content, name: body, widget: markdown}
+          - label: Images and Flyers
+            name: "flyer"
+            widget: list
+            fields:
+              - {label: Heading, name: "heading", widget: string}
+              - {label: Image, name: "image", widget: image}
+              - {label: Description, name: "description", widget: string}
+              - {label: Update, name: "update", widget: string}
+              - label: Registration Link
+                name: 'registration'
+                widget: object
+                fields:
+                  - {label: URL, name: regURL, widget: string}
+                  - {label: Link Text, name: regText, widget: string}
+              - label: Payment Link
+                name: "payment"
+                widget: object
+                fields:
+                  - {label: URL, name: payURL, widget: string}
+                  - {label: Link Text, name: payText, widget: string}
+          
 
       - file: "content/club/u12/roster.md"
         label: "U12 Roster"
@@ -150,7 +156,7 @@ collections:
         name: "home"
         fields: 
           - {label: Publish Date, name: "date", widget: datetime}
-          - label: Flyer
+          - label: Images and Flyers
             name: 'flyer'
             widget: list
             fields:
@@ -158,5 +164,17 @@ collections:
               - {label: Image, name: 'image', widget: image}
               - {label: Description, name: 'description', widget: string}
               - {label: Update, name: 'update', widget: string}
+              - label: Registration Link
+                name: 'registration'
+                widget: object
+                fields:
+                  - {label: URL, name: "regURL", widget: string}
+                  - {label: Link Text, name: "regText", widget: string}
+              - label: Payment Link
+                name: "payment"
+                widget: object
+                fields:
+                  - {label: URL, name: "payURL", widget: string}
+                  - {label: Link Text, name: "payText", widget: string}
             
 # Youth folder - end
