@@ -9,11 +9,11 @@ menu:
     parent: "u14"
     weight: 100
 
-roster: /img/uploads/test-roster.pdf
+roster: 
 ---
-{{< roster >}}
+<!-- {{< roster >}} -->
 
- <!-- {{< roster-table table_class="table" >}}
+{{< roster-table table_class="table" >}}
 
 | #  | Name        |
 |----|-------------|
@@ -33,6 +33,7 @@ roster: /img/uploads/test-roster.pdf
 | 80 | O. Schmidt  |
 | 99 | K. Ault     |
 
-{{< /roster-table >}}
 
-**Head Coach:** Hillary Maxwell -->
+**Head Coach:** Hillary Maxwell
+
+{{< /roster-table >}}

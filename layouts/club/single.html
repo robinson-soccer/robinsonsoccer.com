@@ -6,17 +6,17 @@
 {{ partial "banner" . }}
 
 <div class="container">
-  <section class="row g-5">
-    <main class="col-lg-8 ">
+  <main class="row g-5">
+    <section class="col-lg-8 ">
       <div class="shadow p-4">
         <h2 class="mb-4">{{ .Page.Params.heading }}</h2>
 
         {{ .Content }}
 
       </div>
-    </main>
+    </section>
     {{ partial "sidebar" . }}
-  </section>
+  </main>
 </div>
 {{ partial "footer/club-footer" . }}
 {{ end }}
