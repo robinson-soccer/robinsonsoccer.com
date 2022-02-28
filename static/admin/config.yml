@@ -199,3 +199,16 @@ collections:
     folder: content/test
     create: false  
     fields:
+      - label: Sub-Folder
+        name: subfolder
+        folder: content/test/subfolder
+        create: false
+        fields:
+          - label: Another Level
+            name: another level
+            files:
+              - file: content/test/subfolder/destination.md
+                label: Destination
+                name: destination
+                fields:
+                  - {label: Heading, name: heading, widget: string}
