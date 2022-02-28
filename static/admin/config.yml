@@ -89,7 +89,7 @@ collections:
   - label: Club Divisions
     name: club divisions
     files:
-      - file: "content/club/u12/roster.md"
+      - file: "/club/u12/roster.md"
         label: "U12 Roster"
         name: "u12 roster"
         fields:
