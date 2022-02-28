@@ -196,15 +196,15 @@ collections:
 # Youth folder - end
   - label: Test
     name: test
-    files:
+    fields:
       - file: /content/test/test1/_index.md
         label: Test1
         name: test1
-        files:
+        fields:
           - file: /content/test/test1/subtest/_index.md
             label: Subtest
             name: subtest
-            files:
+            fields:
               - file: /content/test/test1/subtest/subtest.md
                 label: End Test
                 name: end test
