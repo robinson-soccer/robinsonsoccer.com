@@ -29,12 +29,12 @@ collections:
               - {label: Line Two, name: "lineTwo", widget: string}
               - {label: Line Three, name: "lineThree", widget: string}
 # Club Folder - start
-  - label: "Club"
-    name: "club"
+  - label: "Homepages"
+    name: "homepage"
     files:
       - file: "content/club/_index.md"
-        label: "Home"
-        name: "home"
+        label: "Club Home"
+        name: "club home"
         fields:
           - {label: Publish Date, name: "date", widget: datetime}
           - label: Images and Flyers
@@ -58,7 +58,37 @@ collections:
                   - {label: URL, name: payURL, widget: string}
                   - {label: Link Text, name: payText, widget: string}
           
-
+      - name: "youth"
+        label: "Youth"
+        files:
+          - file: "content/youth/_index.md"
+            label: "Youth Homepage"
+            name: "youth homepage"
+            fields: 
+              - {label: Publish Date, name: "date", widget: datetime}
+              - label: Images and Flyers
+                name: 'flyer'
+                widget: list
+                fields:
+                  - {label: Heading, name: 'heading', widget: string}
+                  - {label: Image, name: 'image', widget: image}
+                  - {label: Description, name: 'description', widget: string}
+                  - {label: Update, name: 'update', widget: string}
+                  - label: Registration Link
+                    name: 'registration'
+                    widget: object
+                    fields:
+                      - {label: URL, name: "regURL", widget: string}
+                      - {label: Link Text, name: "regText", widget: string}
+                  - label: Payment Link
+                    name: "payment"
+                    widget: object
+                    fields:
+                      - {label: URL, name: "payURL", widget: string}
+                      - {label: Link Text, name: "payText", widget: string}
+  - label: Club Divisions
+    name: club divisions
+    files:
       - file: "content/club/u12/roster.md"
         label: "U12 Roster"
         name: "u12 roster"
@@ -108,6 +138,9 @@ collections:
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Schedule, name: "schedule", widget: file}
 
+  - label: Club Misc.
+    name: club misc.
+    files:
       - file: "content/club/registration/index.md"
         label: "Registration"
         name: "registration"
@@ -148,36 +181,9 @@ collections:
           - {label: Body, name: body, widget: markdown}
 # Club folder - end
 # Youth folder - start
-  - name: "youth"
-    label: "Youth"
-    files:
-      - file: "content/youth/_index.md"
-        label: "Home"
-        name: "home"
-        fields: 
-          - {label: Publish Date, name: "date", widget: datetime}
-          - label: Images and Flyers
-            name: 'flyer'
-            widget: list
-            fields:
-              - {label: Heading, name: 'heading', widget: string}
-              - {label: Image, name: 'image', widget: image}
-              - {label: Description, name: 'description', widget: string}
-              - {label: Update, name: 'update', widget: string}
-              - label: Registration Link
-                name: 'registration'
-                widget: object
-                fields:
-                  - {label: URL, name: "regURL", widget: string}
-                  - {label: Link Text, name: "regText", widget: string}
-              - label: Payment Link
-                name: "payment"
-                widget: object
-                fields:
-                  - {label: URL, name: "payURL", widget: string}
-                  - {label: Link Text, name: "payText", widget: string}
+
             
-      - label: Leagues
+      - label: Youth Leagues
         name: leagues
         file: content/youth/leagues/_index.md
         fields:
