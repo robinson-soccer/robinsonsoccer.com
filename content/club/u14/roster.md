@@ -11,9 +11,9 @@ menu:
 
 roster: 
 ---
-<!-- {{< roster >}} -->
+<!-- Do not remove code in handlebars -->
+{{< table class="table table-hover" >}}
 
-{{< roster-table table_class="table" >}}
 
 | #  | Name        |
 |----|-------------|
@@ -36,4 +36,5 @@ roster:
 
 **Head Coach:** Hillary Maxwell
 
-{{< /roster-table >}}
+<!-- Do not remove code in handlebars -->
+{{< table >}}

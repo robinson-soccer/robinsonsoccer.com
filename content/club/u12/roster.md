@@ -13,8 +13,7 @@ roster: /img/uploads/test-roster.pdf
 ---
 {{< roster >}}
 
-<!-- 
-{{< roster-table table_class="table" >}}
+<!-- {{< roster-table table_class="table" >}}
 
 | #  | Name        |
 |----|------------ |
