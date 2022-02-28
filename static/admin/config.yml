@@ -177,4 +177,18 @@ collections:
                   - {label: URL, name: "payURL", widget: string}
                   - {label: Link Text, name: "payText", widget: string}
             
+      - label: Leagues
+        name: leagues
+        fields:
+          - label: Beginner
+            name: beginner
+            fields:
+              - file: /youth/leagues/beginner/teams.md
+                label: Teams
+                name: teams
+                fields:
+                  - {label: Heading, name: heading, widget: string}
+                  - {label: Publish Date, name: date, widget: datetime}
+                  - {label: Body, name: body, widget: markdown}
+
 # Youth folder - end
