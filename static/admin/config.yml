@@ -228,7 +228,7 @@ collections:
 
       - file: content/youth/leagues/super/schedule.md
         label: U10 Schedule
-        name: u10 teams
+        name: u10 schedule
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
