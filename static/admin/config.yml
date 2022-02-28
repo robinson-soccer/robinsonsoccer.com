@@ -179,10 +179,11 @@ collections:
             
       - label: Leagues
         name: leagues
-        file: /youth/leagues/_index.md
+        files:
           - label: Beginner
             name: beginner
             file: /youth/leagues/beginner/_index.md
+            fields:
               - file: /youth/leagues/beginner/teams.md
                 label: Teams
                 name: teams
