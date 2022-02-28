@@ -179,13 +179,13 @@ collections:
             
       - label: Leagues
         name: leagues
-        file: /youth/leagues
+        file: content/youth/leagues
         fields:
           - label: Beginner
             name: beginner
-            file: /youth/leagues/beginner
+            file: content/youth/leagues/beginner
             fields:
-              - file: /youth/leagues/beginner/teams.md
+              - file: content/youth/leagues/beginner/teams.md
                 label: Teams
                 name: teams
                 fields:
@@ -196,5 +196,5 @@ collections:
 # Youth folder - end
   - label: Test
     name: test
-    folder: /test
+    folder: content/test
     create: false  
