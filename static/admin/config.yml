@@ -180,10 +180,12 @@ collections:
       - label: Leagues
         name: leagues
         widget: object
+        file: /youth/leagues
         fields:
           - label: Beginner
             name: beginner
             widget: object
+            file: /youth/leagues/beginner
             fields:
               - file: /youth/leagues/beginner/teams.md
                 label: Teams
