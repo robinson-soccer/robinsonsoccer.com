@@ -196,19 +196,17 @@ collections:
 # Youth folder - end
   - label: Test
     name: test
-    folder: content/test
-    create: false  
-    fields:
-      - label: Sub-Folder
-        name: subfolder
-        folder: content/test/subfolder
-        create: false
-        fields:
-          - label: Another Level
-            name: another level
+    files:
+      - file: /content/test/test1/_index.md
+        label: Test1
+        name: test1
+        files:
+          - file: /content/test/test1/subtest/_index.md
+            label: Subtest
+            name: subtest
             files:
-              - file: content/test/subfolder/destination.md
-                label: Destination
-                name: destination
+              - file: /content/test/test1/subtest/subtest.md
+                label: End Test
+                name: end test
                 fields:
-                  - {label: Heading, name: heading, widget: string}
+                  - {label: heading, name: heading, widget: string}
