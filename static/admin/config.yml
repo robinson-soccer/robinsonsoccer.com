@@ -179,10 +179,11 @@ collections:
             
       - label: Leagues
         name: leagues
-        files:
+        widget: object
+        fields:
           - label: Beginner
             name: beginner
-            file: /youth/leagues/beginner/_index.md
+            widget: object
             fields:
               - file: /youth/leagues/beginner/teams.md
                 label: Teams
