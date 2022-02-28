@@ -187,80 +187,80 @@ collections:
     name: leagues
     files:
       - file: content/youth/leagues/beginner/teams.md
-        label: Beginner Teams
-        name: beginner teams
+        label: Beginner/U6 Teams
+        name: u6 teams
         fields:
           - {label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/beginner/schedule.md
-        label: Beginner Schedule
-        name: beginner schedule
+        label: Beginner/U6 Schedule
+        name: u6 schedule
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/major/teams.md
-        label: Major Teams
-        name: major teams
+        label: Major/U8 Teams
+        name: u8 teams
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/major/schedule.md
-        label: Major Schedule
-        name: major schedule
+        label: Major/U8 Schedule
+        name: u8 schedule
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/super/teams.md
-        label: Super Teams
-        name: super teams
+        label: Super/U10 Teams
+        name: u10 teams
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/super/schedule.md
-        label: Super Schedule
-        name: super schedule
+        label: Super/U10 Schedule
+        name: u10 schedule
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/super/standings.md
-        label: Super Standings
-        name: super standings
+        label: Super/U10 Standings
+        name: u10 standings
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/premier/teams.md
-        label: Premier Teams
-        name: premier teams
+        label: Premier/U13 Teams
+        name: u13 teams
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
         
       - file: content/youth/leagues/premier/schedule.md
-        label: Premier Schedule
-        name: premier schedule
+        label: Premier/U13 Schedule
+        name: u13 schedule
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: body, widget: markdown}
 
       - file: content/youth/leagues/premier/standings.md
-        label: Premier Standings
-        name: premier standings
+        label: Premier/U13 Standings
+        name: u13 standings
         fields:
           - { label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
