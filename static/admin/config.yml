@@ -198,3 +198,4 @@ collections:
     name: test
     folder: content/test
     create: false  
+    fields:
