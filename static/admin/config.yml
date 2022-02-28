@@ -194,19 +194,3 @@ collections:
                   - {label: Body, name: body, widget: markdown}
 
 # Youth folder - end
-  - label: Test
-    name: test
-    fields:
-      - file: /content/test/test1/_index.md
-        label: Test1
-        name: test1
-        fields:
-          - file: /content/test/test1/subtest/_index.md
-            label: Subtest
-            name: subtest
-            fields:
-              - file: /content/test/test1/subtest/subtest.md
-                label: End Test
-                name: end test
-                fields:
-                  - {label: heading, name: heading, widget: string}
