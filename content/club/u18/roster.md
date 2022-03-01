@@ -1,6 +1,6 @@
 ---
 title: U18 Roster
-heading: "U18 "
+heading: U18  Roster
 date: 2022-02-01T09:29:34-06:00
 draft: false
 menu:
