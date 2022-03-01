@@ -48,13 +48,13 @@ collections:
               - {label: Update, name: "update", widget: string}
               - label: Registration Link
                 name: "registration"
-                widget: list
+                widget: object
                 fields:
                   - {label: URL, name: regURL, widget: string}
                   - {label: Link Text, name: regText, widget: string}
               - label: Payment Link
                 name: "payment"
-                widget: list
+                widget: object
                 fields:
                   - {label: URL, name: payURL, widget: string}
                   - {label: Link Text, name: payText, widget: string}
