@@ -47,7 +47,7 @@ collections:
               - {label: Description, name: "description", widget: string}
               - {label: Update, name: "update", widget: string}
               - label: Registration Link
-                name: 'registration'
+                name: "registration"
                 widget: object
                 fields:
                   - {label: URL, name: regURL, widget: string}
@@ -65,15 +65,15 @@ collections:
         fields: 
           - {label: Publish Date, name: "date", widget: datetime}
           - label: Images and Flyers
-            name: 'flyer'
+            name: "flyer"
             widget: list
             fields:
-              - {label: Heading, name: 'heading', widget: string}
-              - {label: Image, name: 'image', widget: image}
-              - {label: Description, name: 'description', widget: string}
-              - {label: Update, name: 'update', widget: string}
+              - {label: Heading, name: "heading", widget: string}
+              - {label: Image, name: "image", widget: image}
+              - {label: Description, name: "description", widget: string}
+              - {label: Update, name: "update", widget: string}
               - label: Registration Link
-                name: 'registration'
+                name: "registration"
                 widget: object
                 fields:
                   - {label: URL, name: "regURL", widget: string}
@@ -87,7 +87,7 @@ collections:
 # Homepages - end
 # Club Divisions - start
   - label: Club Divisions
-    name: club divisions
+    name: "club divisions"
     files:
       - file: "content/club/u12/roster.md"
         label: "U12 Roster"
@@ -96,7 +96,7 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Roster, name: "roster", widget: file}
-          - {label: Body, name: body, widget: markdown}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: "content/club/u12/schedule.md"
         label: "U12 Schedule"
@@ -140,13 +140,13 @@ collections:
 # Club Divisions - end
 # Club Misc. - start
   - label: Club Misc.
-    name: club
+    name: "club misc"
     files:
       - file: "content/club/registration/index.md"
         label: "Registration"
         name: "registration"
         fields:
-          - {label: Heading, name: heading, widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
 
       - file: "content/club/info/fundraisers.md"
@@ -184,86 +184,86 @@ collections:
 
 # Youth Leagues - start
   - label: Youth Leagues
-    name: leagues
+    name: "youth leagues"
     files:
       - file: content/youth/leagues/beginner/teams.md
         label: Beginner/U6 Teams
-        name: u6 teams
+        name: "u6 teams"
         fields:
-          - {label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - {label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/beginner/schedule.md
         label: Beginner/U6 Schedule
-        name: u6 schedule
+        name: "u6 schedule"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/major/teams.md
         label: Major/U8 Teams
-        name: u8 teams
+        name: "u8 teams"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/major/schedule.md
         label: Major/U8 Schedule
-        name: u8 schedule
+        name: "u8 schedule"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/super/teams.md
         label: Super/U10 Teams
-        name: u10 teams
+        name: "u10 teams"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/super/schedule.md
         label: Super/U10 Schedule
-        name: u10 schedule
+        name: "u10 schedule"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/super/standings.md
         label: Super/U10 Standings
-        name: u10 standings
+        name: "u10 standings"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/premier/teams.md
         label: Premier/U13 Teams
-        name: u13 teams
+        name: "u13 teams"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
         
       - file: content/youth/leagues/premier/schedule.md
         label: Premier/U13 Schedule
-        name: u13 schedule
+        name: "u13 schedule"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 
       - file: content/youth/leagues/premier/standings.md
         label: Premier/U13 Standings
-        name: u13 standings
+        name: "u13 standings"
         fields:
-          - { label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - { label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 # Youth folder - end
 # Youth Misc. - start
