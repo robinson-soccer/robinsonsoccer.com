@@ -140,7 +140,7 @@ collections:
 # Club Divisions - end
 # Club Misc. - start
   - label: Club Misc.
-    name: club misc
+    name: club
     files:
       - file: "content/club/registration/index.md"
         label: "Registration"
