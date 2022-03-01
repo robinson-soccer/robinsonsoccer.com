@@ -174,12 +174,14 @@ collections:
               - {label: Update, name: "update", widget: string}
               - label: Registration Link
                 name: "registration"
+                required: false
                 widget: object
                 fields:
                   - {label: URL, name: "regURL", widget: string}
                   - {label: Link Text, name: "regText", widget: string}
               - label: Payment Link
                 name: "payment"
+                required: false
                 widget: object
                 fields:
                   - {label: URL, name: "payURL", widget: string}
