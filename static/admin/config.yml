@@ -1,8 +1,8 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
 
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 media_folder: static/img/uploads
 
@@ -60,6 +60,9 @@ collections:
                   - {label: Link Text, name: payText, widget: string}
 # Club Home - end 
 # Club Divisions - start
+  - label: Club Divisions
+    name: divisions
+    files:
       - file: "content/club/u12/roster.md"
         label: "U12 Roster"
         name: "u12 roster"
