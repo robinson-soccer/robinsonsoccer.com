@@ -87,7 +87,7 @@ collections:
 # Homepages - end
 # Club Divisions - start
   - label: Club Divisions
-    name: "club"
+    name: "club-divisions"
     files:
       - file: "content/club/u12/roster.md"
         label: "U12 Roster"
@@ -140,7 +140,7 @@ collections:
 # Club Divisions - end
 # Club Misc. - start
   - label: Club Misc.
-    name: "club"
+    name: "club-misc"
     files:
       - file: "content/club/registration/index.md"
         label: "Registration"
@@ -184,7 +184,7 @@ collections:
 
 # Youth Leagues - start
   - label: Youth Leagues
-    name: "youth"
+    name: "youth-leagues"
     files:
       - file: content/youth/leagues/beginner/teams.md
         label: Beginner/U6 Teams
