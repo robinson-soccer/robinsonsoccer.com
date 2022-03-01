@@ -30,8 +30,8 @@ collections:
               - {label: Line Three, name: "lineThree", widget: string}
 # Announcements - end
 # Homepages - start
-  - label: "Homepages"
-    name: "homepages"
+  - label: "Club Home"
+    name: "club"
     files:
       - file: "content/club/_index.md"
         label: "Club Home"
@@ -59,31 +59,7 @@ collections:
                   - {label: URL, name: payURL, widget: string}
                   - {label: Link Text, name: payText, widget: string}
           
-      - file: "content/youth/_index.md"
-        label: "Youth Homepage"
-        name: "youth homepage"
-        fields: 
-          - {label: Publish Date, name: "date", widget: datetime}
-          - label: Images and Flyers
-            name: "flyer"
-            widget: list
-            fields:
-              - {label: Heading, name: "heading", widget: string}
-              - {label: Image, name: "image", widget: image}
-              - {label: Description, name: "description", widget: string}
-              - {label: Update, name: "update", widget: string}
-              - label: Registration Link
-                name: "registration"
-                widget: object
-                fields:
-                  - {label: URL, name: "regURL", widget: string}
-                  - {label: Link Text, name: "regText", widget: string}
-              - label: Payment Link
-                name: "payment"
-                widget: object
-                fields:
-                  - {label: URL, name: "payURL", widget: string}
-                  - {label: Link Text, name: "payText", widget: string}
+
 # Homepages - end
 # Club Divisions - start
   - label: Club Divisions
@@ -182,9 +158,37 @@ collections:
           - {label: Body, name: body, widget: markdown}
 # Club Misc. - end
 
+  - label: Youth Home
+    name: "youth"
+    files:
+      - file: "content/youth/_index.md"
+        label: "Youth Homepage"
+        name: "youth homepage"
+        fields: 
+          - {label: Publish Date, name: "date", widget: datetime}
+          - label: Images and Flyers
+            name: "flyer"
+            widget: list
+            fields:
+              - {label: Heading, name: "heading", widget: string}
+              - {label: Image, name: "image", widget: image}
+              - {label: Description, name: "description", widget: string}
+              - {label: Update, name: "update", widget: string}
+              - label: Registration Link
+                name: "registration"
+                widget: object
+                fields:
+                  - {label: URL, name: "regURL", widget: string}
+                  - {label: Link Text, name: "regText", widget: string}
+              - label: Payment Link
+                name: "payment"
+                widget: object
+                fields:
+                  - {label: URL, name: "payURL", widget: string}
+                  - {label: Link Text, name: "payText", widget: string}
 # Youth Leagues - start
   - label: Youth Leagues
-    name: "youth-leagues"
+    name: "leagues"
     files:
       - file: content/youth/leagues/beginner/teams.md
         label: Beginner/U6 Teams
