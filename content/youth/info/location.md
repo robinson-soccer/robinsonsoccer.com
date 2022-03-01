@@ -2,6 +2,7 @@
 title: "Location"
 date: 2022-02-11T17:09:35-06:00
 draft: false
+heading: Location
 menu:
   youth:
     name: Location

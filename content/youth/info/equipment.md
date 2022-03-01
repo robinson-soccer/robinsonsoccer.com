@@ -2,6 +2,7 @@
 title: "Equipment"
 date: 2022-02-11T17:12:16-06:00
 draft: false
+heading: Equipment
 menu:
   youth:
     name: Equipment
