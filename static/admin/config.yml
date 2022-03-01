@@ -61,7 +61,7 @@ collections:
 # Club Home - end 
 # Club Divisions - start
   - label: Club Divisions
-    name: divisions
+    name: "divisions"
     files:
       - file: "content/club/u12/roster.md"
         label: "U12 Roster"
@@ -113,6 +113,9 @@ collections:
           - {label: Schedule, name: "schedule", widget: file}
 # Club Divisions - end
 # Club Misc. - start
+  - lable: Club Misc.
+    name: "miscellaneous"
+    files:
       - file: "content/club/registration/index.md"
         label: "Registration"
         name: "registration"
