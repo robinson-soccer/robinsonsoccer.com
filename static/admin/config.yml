@@ -71,7 +71,6 @@ collections:
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Roster, name: "roster", widget: file}
           - {label: Body, name: "body", widget: markdown}
-
       - file: "content/club/u12/schedule.md"
         label: "U12 Schedule"
         name: "u12 schedule"
@@ -79,7 +78,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Schedule, name: "schedule", widget: file}
-
       - file: "content/club/u14/roster.md"
         label: "U14 Roster"
         name: "u14 roster"
@@ -87,7 +85,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Roster, name: "roster", widget: file}
-
       - file: "content/club/u14/schedule.md"
         label: "U14 Schedule"
         name: "U14 schedule"
@@ -95,7 +92,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Schedule, name: "schedule", widget: file}
-
       - file: "content/club/u18/roster.md"
         label: "U18 Roster"
         name: "u18 roster"
@@ -103,7 +99,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Roster, name: "roster", widget: file}
-
       - file: "content/club/u18/schedule.md"
         label: "U18 Schedule"
         name: "u18 schedule"
@@ -112,6 +107,17 @@ collections:
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Schedule, name: "schedule", widget: file}
 # Club Divisions - end
+# Club Registration
+  - label: Club Registration
+    name: "club registration"
+    files:
+      - file: content/club/registration/index.md
+        label: Registration
+        name: "registration"
+        fields:
+          - {label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
 # Club Info - start
   - label: Club Info
     name: "club info"
@@ -123,7 +129,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Image, name: Image, widget: image}
-          
       - file: "content/club/info/rules.md"
         label: "Rules"
         name: "rules"
@@ -131,7 +136,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: body, widget: markdown}
-
       - file: "content/club/info/uniforms.md"
         label: "Uniforms"
         name: "Uniforms"
@@ -139,7 +143,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Image, name: image, widget: image}
-
       - file: "content/club/info/sponsors.md"
         label: "Sponsors"
         name: "sponsors"
@@ -191,7 +194,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/beginner/schedule.md
         label: Beginner/U6 Schedule
         name: "u6 schedule"
@@ -199,7 +201,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/major/teams.md
         label: Major/U8 Teams
         name: "u8 teams"
@@ -207,7 +208,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/major/schedule.md
         label: Major/U8 Schedule
         name: "u8 schedule"
@@ -215,7 +215,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/super/teams.md
         label: Super/U10 Teams
         name: "u10 teams"
@@ -223,7 +222,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/super/schedule.md
         label: Super/U10 Schedule
         name: "u10 schedule"
@@ -231,7 +229,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/super/standings.md
         label: Super/U10 Standings
         name: "u10 standings"
@@ -239,7 +236,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/premier/teams.md
         label: Premier/U13 Teams
         name: "u13 teams"
@@ -247,7 +243,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/premier/schedule.md
         label: Premier/U13 Schedule
         name: "u13 schedule"
@@ -255,7 +250,6 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-
       - file: content/youth/leagues/premier/standings.md
         label: Premier/U13 Standings
         name: "u13 standings"
@@ -264,6 +258,18 @@ collections:
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Body, name: "body", widget: markdown}
 # Youth Leagues - end
+# Club Registration
+  - label: Youth Registration
+    name: "youth registration"
+    files:
+      - file: content/youth/registration/index.md
+        label: Registration
+        name: "registration"
+        fields:
+          - {label: Heading, name: "heading", widget: string}
+          - { label: Publish Date, name: "date", widget: datetime}
+          - { label: Body, name: "body", widget: markdown}
+# Youth Info - start
   - label: Youth Info
     name: "youth info"
     files:
@@ -309,7 +315,7 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: "body", widget: markdown}
-      # Working on coaching
+      # Working on coaching - URL's
       - file: content/youth/info/coaching.md
         label: Coaching
         name: "coaching"
@@ -317,4 +323,14 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
           - {label: Body, name: "body", widget: markdown}
+      - file: content/youth/info/faq.md
+        label: FAQ
+        name: "faq"
+        fields:
+          - {label: Heading, name: "heading", widget: string}
+          - {label: Publish Date, name: "date", widget: datetime}
+          - {label: Body, name: "body", widget: markdown}
+      
+        
+# Youth Info - end
 # TODO FAQ
