@@ -12,8 +12,7 @@ menu:
 ---
 Two Beginner (U6) fields, one Major (U8), one Super (U10) field and one Premier (U13) field are located at Washington Park (400 West Condit Street, Robinson, IL 62454).
 
-<!-- !\[Soccer Fields](/img/uploads/fields.png) -->
-
+<!-- This shortcode uses a img-fluid class for responsiveness -->
 {{< image src="/img/uploads/fields.png" alt="Soccer Fields" >}}
 
 ![Soccer Fields](/img/uploads/fields.png "Youth Soccer Fields")
