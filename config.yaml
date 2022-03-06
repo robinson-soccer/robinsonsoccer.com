@@ -1,8 +1,8 @@
-baseURL: '/'
-languageCode: 'en-us'
-title: 'Robinson Soccer'
-
+baseURL: /
+languageCode: en-us
+title: Robinson Soccer
 params:
-  lineOne: "Register Online Now!"
-  lineTwo: "The spring 2022 season will be open to all Crawford and Lawrence County, Illinois players!"
-  lineThree: "For more information, email: ilrobinsonsoccer@gmailcom."
+  lineOne: Register Online Now!
+  lineTwo: The spring 2022 season will be open to all Crawford and Lawrence
+    County, Illinois players!
+  lineThree: "For more information, email: ilrobinsonsoccer@gmail.com."
