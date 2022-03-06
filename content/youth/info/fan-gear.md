@@ -1,5 +1,5 @@
 ---
-title: "Fan Gear"
+title: Fan Gear
 date: 2022-02-11T17:10:24-06:00
 draft: false
 heading: Fan Gear
@@ -23,3 +23,7 @@ Due Date: July 31, 2018
 {{< image src="/img/uploads/2018-youth-league-fan-gear.png" alt="Robinson Soccer Fan Gear" >}}
 
 ![Robinson Soccer Fan Gear](/img/uploads/2018-youth-league-fan-gear.png)
+
+
+
+{{< figure class="img-fluid" src="/img/uploads/2018-youth-league-fan-gear.png" alt="Robinson Soccer Fan Gear" >}}
