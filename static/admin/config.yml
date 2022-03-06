@@ -19,13 +19,26 @@ collections:
       - file: content/test.md
         label: Test Page
         name: test page
-        required: false
         fields:
           - {label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Text, name: text, widget: list}
-          - {label: Image, name: image, widget: image}
-          - {label: File, name: file, widget: file}
+          - label: Main Content
+            name: main content
+            widget: object
+            fields:
+              - label: Text Body
+                name: text body
+                hint: "Create a new text widget for each paragraph"
+                widget: list
+                fields:
+                  - {label: Text, name: text, widget: Text, required: false}
+              - {label: Image, name: image, widget: image, required: false}
+
+
+
+
+
+          
 # Announcements - start
   - label: "Announcements"
     name: "announcements"
