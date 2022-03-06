@@ -16,24 +16,21 @@ collections:
   - label: Test
     name: "test"
     create: true
-    folder:
-      - file: content/test
-        label: Test Page
-        name: test page
+    folder: content/test
+    fields:
+      - {label: Heading, name: heading, widget: string}
+      - {label: Publish Date, name: date, widget: datetime}
+      - label: Main Content
+        name: main content
+        widget: object
         fields:
-          - {label: Heading, name: heading, widget: string}
-          - {label: Publish Date, name: date, widget: datetime}
-          - label: Main Content
-            name: main content
-            widget: object
+          - label: Text Body
+            name: text body
+            hint: "Create a new text widget for each paragraph"
+            widget: list
             fields:
-              - label: Text Body
-                name: text body
-                hint: "Create a new text widget for each paragraph"
-                widget: list
-                fields:
-                  - {label: Text, name: text, widget: Text, required: false}
-              - {label: Image, name: image, widget: image, required: false}
+              - {label: Text, name: text, widget: Text, required: false}
+          - {label: Image, name: image, widget: image, required: false}
 
 
 
