@@ -29,7 +29,7 @@ collections:
             hint: "Create a new text widget for each paragraph"
             widget: list
             fields:
-              - {label: Text, name: text, widget: Text, required: false}
+              - {label: Text, name: text, widget: text, required: false}
           - {label: Image, name: image, widget: image, required: false}
 
 
