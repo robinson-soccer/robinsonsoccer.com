@@ -21,15 +21,11 @@ collections:
         name: test page
         required: false
         fields:
-          - label: Page Layout
-            name: page layout
-            widget: object
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Publish Date, name: date, widget: date}
-              - {label: Text, name: text, widget: list}
-              - {label: Image, name: image, widget: image}
-              - {label: File, name: file, widget: file}
+          - {label: Heading, name: heading, widget: string}
+          - {label: Publish Date, name: date, widget: datetime}
+          - {label: Text, name: text, widget: list}
+          - {label: Image, name: image, widget: image}
+          - {label: File, name: file, widget: file}
 # Announcements - start
   - label: "Announcements"
     name: "announcements"
