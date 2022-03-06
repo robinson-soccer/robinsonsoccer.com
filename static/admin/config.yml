@@ -31,7 +31,7 @@ collections:
             fields:
               - {label: Text, name: text, widget: text, required: false}
           - {label: Image, name: image, widget: image, required: false}
-
+      - {label: Body, name: body, widget: markdown, required: false, hint: Optional way to input text and images into main content area}
 
 
 
