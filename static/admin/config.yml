@@ -16,8 +16,8 @@ collections:
   - label: Test
     name: "test"
     create: true
-    files:
-      - file: content/test.md
+    folder:
+      - file: content/test
         label: Test Page
         name: test page
         fields:
