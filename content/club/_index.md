@@ -28,9 +28,6 @@ menu:
 ---
 ## Club Registration - Spring 2022
 
-<!-- Image siz not responsive in markdown editor by default -->
-![Club Banner](/img/uploads/spring-registration2022.jpg)
-
 <!-- Same image responsive with image shortcode -->
 {{< image src="/img/uploads/spring-registration2022.jpg" alt="Club Banner" >}}
 
