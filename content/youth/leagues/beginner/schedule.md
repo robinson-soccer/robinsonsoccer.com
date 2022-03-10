@@ -10,3 +10,5 @@ menu:
     weight: 210
 ---
 {{< embed-pdf src="/img/uploads/2021-major-league-schedule.pdf" hidePaginator="true" >}}
+
+{{< embed-pdf src="static/img/uploads/2021-major-league-schedule.pdf" >}}
