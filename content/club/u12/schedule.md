@@ -11,10 +11,6 @@ menu:
 content:
   image: /img/uploads/U12.jpg
 ---
-{{< iframe src="https://calendar.google.com/calendar/embed?src=5ppt0na4l099gp4r08lco1m7si5a2b7t%40import.calendar.google.com&ctz=America%2FChicago">}}
-
-{{< image src="/img/uploads/U12.jpg" alt="U12 Schedule">}}
-
 ### 2022 Spring U12 Club
 
 {{< table class="table">}}
