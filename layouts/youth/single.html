@@ -1,22 +1,16 @@
 {{ define "main" }}
-
-{{ partial "nav/youth-nav" . }}
-
-
+{{ partial "youth/navbar" . }}
 {{ partial "banner" . }}
-
 <div class="container">
   <main class="row g-5">
     <section class="col-lg-8 ">
       <div class="p-4">
         <h2 class="mb-4">{{ .Params.heading }}</h2>
-
         {{ .Content }}
-
       </div>
     </section>
-    {{ partial "youth-sidebar" . }}
+    {{ partial "youth/sidebar" . }}
   </main>
 </div>
-{{ partial "footer/youth-footer" . }}
+{{ partial "youth/footer" . }}
 {{ end }}

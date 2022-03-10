@@ -7,6 +7,8 @@ menu:
   youth:
       name: U6 Schedule
       parent: beginner
-      url: /youth/leagues/beginner/schedule/
+      # url: /youth/leagues/beginner/schedule/
       weight: 210
 ---
+
+{{< embed-pdf url="/img/uploads/2021-major-league-schedule.pdf" hidePaginator="true" >}}

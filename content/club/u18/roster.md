@@ -8,12 +8,10 @@ menu:
     name: U18 Roster
     parent: u18
     weight: 100
-roster: https://docs.google.com/document/d/e/2PACX-1vRyYpP7Xb50z5gaFHWqj7m1K60a0zVgD6hOyJw9ttZi7ESuSv6ks2mmZCM7XUjyQS2gZjKXQ34O2cK5/pub?embedded=true
+# roster: https://docs.google.com/document/d/e/2PACX-1vRyYpP7Xb50z5gaFHWqj7m1K60a0zVgD6hOyJw9ttZi7ESuSv6ks2mmZCM7XUjyQS2gZjKXQ34O2cK5/pub?embedded=true
 ---
 
-{{< roster >}}
-
-<!-- {{< roster-table table_class="table" >}}
+{{< table class="table" >}}
 
 | #  | Name        |
 |----|-------------|
@@ -34,6 +32,6 @@ roster: https://docs.google.com/document/d/e/2PACX-1vRyYpP7Xb50z5gaFHWqj7m1K60a0
 | 72 | A. Schrader |
 | 78 | E. McColpin |
 
-{{< /roster-table >}}
+{{< /table >}}
 
-**Head Coach:** Mark Hermann -->
+**Head Coach:** Mark Hermann

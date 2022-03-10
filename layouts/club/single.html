@@ -1,22 +1,16 @@
 {{ define "main" }}
-
-{{ partial "nav/club-nav" . }}
-
-
+{{ partial "club/navbar" . }}
 {{ partial "banner" . }}
-
 <div class="container">
   <main class="row g-5">
     <section class="col-lg-8 ">
       <div class=" p-4">
         <h2 class="mb-4">{{ .Page.Params.heading }}</h2>
-
         {{ .Content }}
-
       </div>
     </section>
-    {{ partial "sidebar" . }}
+    {{ partial "club/sidebar" . }}
   </main>
 </div>
-{{ partial "footer/club-footer" . }}
+{{ partial "club/footer" . }}
 {{ end }}

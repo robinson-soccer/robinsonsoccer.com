@@ -14,4 +14,3 @@ schedule: "https://calendar.google.com/calendar/embed?src=1ok3bf2bb0965fnsdn6dm2
 
 {{< schedule >}}
 
-<!-- {{< club/u18-schedule >}} -->

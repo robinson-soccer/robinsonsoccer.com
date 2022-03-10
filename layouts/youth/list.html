@@ -1,5 +1,5 @@
 {{ define "main" }}
-{{ partial "nav/youth-nav" . }}
+{{ partial "youth/navbar" . }}
 {{ partial "banner" . }}
 <div class="container">
   <main class="row g-5">
@@ -17,8 +17,8 @@
         {{ end }}
       </div>
     </section>
-    {{ partial "youth-sidebar" . }}
+    {{ partial "youth/sidebar" . }}
   </main>
 </div>
-{{ partial "footer/youth-footer" . }}
+{{ partial "youth/footer" . }}
 {{ end }}

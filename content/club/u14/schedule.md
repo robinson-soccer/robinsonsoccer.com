@@ -13,5 +13,3 @@ schedule: https://calendar.google.com/calendar/embed?src=cm8c9020def9drisvqn8fqg
 ---
 
 {{< schedule >}}
-
-<!-- {{< club/u14-schedule >}} -->

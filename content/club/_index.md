@@ -3,23 +3,41 @@ title: Club Home
 date: 2022-02-04T10:14:14-06:00
 draft: false
 
-flyer:
-  - heading: Club Registration - Spring 2022
-    image: /img/uploads/spring-registration2022.jpg
-    description: " U12 (5th & 6th Grade) • U14 (7th & 8th Grade) • U18 (High School)"
-    update: "Update: Registration is open till March 14, 2022"
-    registration:
-      regURL: https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit
-      regText: Register Online
-    payment:
-      payURL: https://buy.stripe.com/00gcOL2y1fWT7ks001
-      payText: Pay Online
+# flyer:
+#   - heading: Club Registration - Spring 2022
+#     image: /img/uploads/spring-registration2022.jpg
+#     description: " U12 (5th & 6th Grade) • U14 (7th & 8th Grade) • U18 (High School)"
+#     update: "Update: Registration is open till March 14, 2022"
+#     registration:
+#       regURL: https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit
+#       regText: Register Online
+#     payment:
+#       payURL: https://buy.stripe.com/00gcOL2y1fWT7ks001
+#       payText: Pay Online
 
-clubInfo:
+info:
   heading: Robinson Soccer Club
-  text: Robinson Soccer has expanded from offering recreational soccer through the
-    City of Robinson Parks & Recreations Department to our very own U18, U14 and
-    U12 travel soccer club! We are very excited to provide this opportunity to
-    the youth of Crawford County, Illinois.
+  text: Robinson Soccer has expanded from offering recreational soccer through the City of Robinson Parks & Recreations Department to our very own U18, U14 and U12 travel soccer club! We are very excited to provide this opportunity to the youth of Crawford County, Illinois.
+
+menu: 
+  club:
+    identifier: club
+    name: Home
+    # url: /club/
+    weight: 1
 ---
-Club Homepage
+## Club Registration - Spring 2022
+
+<!-- Image siz not responsive in markdown editor by default -->
+![Club Banner](/img/uploads/spring-registration2022.jpg)
+
+<!-- Same image responsive with image shortcode -->
+{{< image src="/img/uploads/spring-registration2022.jpg" alt="Club Banner" >}}
+
+U12 (5th & 6th Grade) - U14 (7th & 8th Grade) - U18 (High School)
+
+**Update: Registration is open until March 14, 2022**
+
+[Register Online](#)
+
+[Pay Online](#)
