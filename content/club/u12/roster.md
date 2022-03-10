@@ -12,10 +12,12 @@ menu:
 roster: /img/uploads/test-roster.pdf
 ---
 <!-- Table shortcode provides bootstrap styling -->
+
 {{< table class="table" >}}
 
 <!-- Example of table in markdown -->
 <!-- Rows and columns can be added by following current layout -->
+
 | #  | Name        |
 |----|------------ |
 | 2  | Z. Tuttle   |
@@ -33,9 +35,7 @@ roster: /img/uploads/test-roster.pdf
 | 64 | H. Bonnell  |
 
 <!-- Closing shortcode element -->
+
 {{< /table >}}
 
 **Head Coach:** Tanya Reed
-
-<!-- Example of embed shortcode for a pdf -->
-{{< embed-pdf src="/img/uploads/test-roster.pdf" hidePaginator="true" >}}

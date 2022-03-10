@@ -102,16 +102,24 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          # - {label: Roster, name: "roster", widget: file}
           - {label: Main Content, name: "body", widget: markdown, required: false}
+          - label: Content
+            name: content
+            widget: object
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
       - file: "content/club/u12/schedule.md"
         label: "U12 Schedule"
         name: "u12 schedule"
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          # - {label: Schedule, name: "schedule", widget: file}
           - {label: Main Content, name: body, widget: markdown, required: false}
+          - label: Content
+            name: content
+            widget: object
+            fields:
+              - {label: Image, name: image, widget: image, required: false}
       - file: "content/club/u14/roster.md"
         label: "U14 Roster"
         name: "u14 roster"

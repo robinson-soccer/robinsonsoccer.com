@@ -9,10 +9,5 @@ menu:
     parent: beginner
     weight: 210
 ---
-![](/img/uploads/download.png)
 
-{{< embed-pdf src="/img/uploads/2021-major-league-schedule.pdf" hidePaginator="true" >}}
-
-{{< embed-pdf src="static/img/uploads/2021-major-league-schedule.pdf" >}}
-
-{{< iframe src="/img/uploads/2021-major-league-schedule.pdf" >}}
+<!-- {{< iframe src="/img/uploads/2021-major-league-schedule.pdf" >}} -->
