@@ -13,7 +13,7 @@ menu:
 
 [![U12 Spring 2022 Schedule](/img/uploads/u12-schedule.jpg)](/img/uploads/u12-schedule.jpg)
 
-\*\*Spring 2022\*\*
+**Spring 2022**
 
 {{< table class="table">}}
 
