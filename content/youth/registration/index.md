@@ -35,4 +35,5 @@ Please [contact us](/youth/contact/) if there are any problems.
 
 [Pay Online](#)
 
+{{< youth/registration >}}
 

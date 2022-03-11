@@ -12,7 +12,6 @@ menu:
 ---
 
 {{< table class="table" >}}
-
 | #  | Name        |
 |----|-------------|
 | 1	 | C. Nidey    |
@@ -31,7 +30,6 @@ menu:
 | 66 | C. Hardin   |
 | 72 | A. Schrader |
 | 78 | E. McColpin |
-
 {{< /table >}}
 
 **Head Coach:** Mark Hermann

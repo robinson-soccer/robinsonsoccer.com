@@ -22,6 +22,8 @@ Please [contact us](/club/contact/) if there are any problems.
 
 [Pay Online](https://buy.stripe.com/7sIbKH7Sl9yv9sA000)
 
+{{< club/registration >}}
+
 ---
 
 ### Step 3: Complete Waivers

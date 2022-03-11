@@ -20,10 +20,4 @@ Sizes: Adult Small, Medium, Large, Extra Large, 2XL and 3XL
 
 Due Date: July 31, 2018
 
-{{< image src="/img/uploads/2018-youth-league-fan-gear.png" alt="Robinson Soccer Fan Gear" >}}
-
 ![Robinson Soccer Fan Gear](/img/uploads/2018-youth-league-fan-gear.png)
-
-
-
-{{< figure class="img-fluid" src="/img/uploads/2018-youth-league-fan-gear.png" alt="Robinson Soccer Fan Gear" >}}

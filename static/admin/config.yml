@@ -171,28 +171,7 @@ collections:
         name: "youth home"
         fields: 
           - {label: Publish Date, name: "date", widget: datetime}
-          - label: Images and Flyers
-            name: "flyer"
-            widget: list
-            fields:
-              - {label: Heading, name: "heading", widget: string}
-              - {label: Image, name: "image", widget: image}
-              - {label: Description, name: "description", widget: string}
-              - {label: Update, name: "update", widget: string}
-              - label: Registration Link
-                name: "registration"
-                required: false
-                widget: object
-                fields:
-                  - {label: URL, name: "regURL", widget: string}
-                  - {label: Link Text, name: "regText", widget: string}
-              - label: Payment Link
-                name: "payment"
-                required: false
-                widget: object
-                fields:
-                  - {label: URL, name: "payURL", widget: string}
-                  - {label: Link Text, name: "payText", widget: string}
+          - {label: Main Content, name: body, widget: markdown}
 # Youth Home - end
 # Youth Leagues - start
   - label: Youth Leagues
@@ -204,70 +183,70 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/beginner/schedule.md
         label: Beginner/U6 Schedule
         name: "u6 schedule"
         fields:
-          - { label: Heading, name: "heading", widget: string}
+          - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/major/teams.md
         label: Major/U8 Teams
         name: "u8 teams"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/major/schedule.md
         label: Major/U8 Schedule
         name: "u8 schedule"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/super/teams.md
         label: Super/U10 Teams
         name: "u10 teams"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/super/schedule.md
         label: Super/U10 Schedule
         name: "u10 schedule"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/super/standings.md
         label: Super/U10 Standings
         name: "u10 standings"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/premier/teams.md
         label: Premier/U13 Teams
         name: "u13 teams"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/premier/schedule.md
         label: Premier/U13 Schedule
         name: "u13 schedule"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
       - file: content/youth/leagues/premier/standings.md
         label: Premier/U13 Standings
         name: "u13 standings"
         fields:
           - { label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown, required: false}
 # Youth Leagues - end
 # Club Registration
   - label: Youth Registration
@@ -279,7 +258,7 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - { label: Publish Date, name: "date", widget: datetime}
-          - { label: Body, name: "body", widget: markdown}
+          - { label: Main Content, name: "body", widget: markdown}
 # Youth Info - start
   - label: Youth Info
     name: "youth info"
@@ -290,42 +269,42 @@ collections:
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
       - file: content/youth/info/location.md
         label: Location
         name: "location"
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
       - file: content/youth/info/fan-gear.md
         label: Fan Gear
         name: "fan gear"
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
       - file: content/youth/info/rules.md
         label: Rules
         name: "rules"
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
       - file: content/youth/info/equipment.md
         label: Equipment
         name: "equipment"
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
       - file: content/youth/info/uniforms.md
         label: Uniforms
         name: "uniforms"
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
       # Working on coaching - URL's
       - file: content/youth/info/coaching.md
         label: Coaching
@@ -333,15 +312,12 @@ collections:
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
       - file: content/youth/info/faq.md
         label: FAQ
         name: "faq"
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Body, name: "body", widget: markdown}
-      
-        
+          - {label: Main Content, name: "body", widget: markdown}
 # Youth Info - end
-# TODO FAQ
