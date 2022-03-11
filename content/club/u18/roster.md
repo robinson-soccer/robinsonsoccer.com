@@ -1,6 +1,6 @@
 ---
 title: U18 Roster
-heading: U18  Roster
+heading: U18 Club Roster
 date: 2022-02-01T09:29:34-06:00
 draft: false
 menu:
@@ -8,8 +8,8 @@ menu:
     name: U18 Roster
     parent: u18
     weight: 100
-# roster: https://docs.google.com/document/d/e/2PACX-1vRyYpP7Xb50z5gaFHWqj7m1K60a0zVgD6hOyJw9ttZi7ESuSv6ks2mmZCM7XUjyQS2gZjKXQ34O2cK5/pub?embedded=true
 ---
+**Spring 2021**
 
 {{< table class="table" >}}
 

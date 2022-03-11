@@ -63,34 +63,12 @@ collections:
         name: "club home"
         fields:
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Main Content, name: body, widget: markdown, required: false}
+          - {label: Main Content, name: body, widget: markdown}
           - label: Club Info
             name: info
             fields:
               - {label: Heading, name: heading, widget: string}
               - {label: Text, name: text, widget: text}
-          # - label: Images and Flyers
-          #   name: "flyer"
-          #   widget: list
-          #   fields:
-          #     - {label: Heading, name: "heading", widget: string}
-          #     - {label: Image, name: "image", widget: image}
-          #     - {label: Description, name: "description", widget: string}
-          #     - {label: Update, name: "update", required: false, widget: string}
-          #     - label: Registration Link
-          #       name: "registration"
-          #       required: false
-          #       widget: object
-          #       fields:
-          #         - {label: URL, name: regURL, widget: string}
-          #         - {label: Link Text, name: regText, widget: string}
-          #     - label: Payment Link
-          #       name: "payment"
-          #       required: false
-          #       widget: object
-          #       fields:
-          #         - {label: URL, name: payURL, widget: string}
-          #         - {label: Link Text, name: payText, widget: string}
 # Club Home - end 
 # Club Divisions - start
   - label: Club Divisions
@@ -103,12 +81,6 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Main Content, name: "body", widget: markdown, required: false}
-          - label: Content
-            name: content
-            required: false
-            widget: object
-            fields:
-              - {label: Image, name: image, widget: image, required: false}
       - file: "content/club/u12/schedule.md"
         label: "U12 Schedule"
         name: "u12 schedule"
@@ -116,19 +88,12 @@ collections:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Main Content, name: body, widget: markdown, required: false}
-          - label: Content
-            name: content
-            required: false
-            widget: object
-            fields:
-              - {label: Image, name: image, widget: image, required: false}
       - file: "content/club/u14/roster.md"
         label: "U14 Roster"
         name: "u14 roster"
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          # - {label: Roster, name: "roster", widget: file}
           - {label: Main Content, name: body, widget: markdown, required: false}
       - file: "content/club/u14/schedule.md"
         label: "U14 Schedule"
@@ -136,7 +101,6 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          # - {label: Schedule, name: "schedule", widget: file}
           - {label: Main Content, name: body, widget: markdown, required: false}
       - file: "content/club/u18/roster.md"
         label: "U18 Roster"
@@ -144,7 +108,6 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          # - {label: Roster, name: "roster", widget: file}
           - {label: Main Content, name: body, widget: markdown, required: false}
       - file: "content/club/u18/schedule.md"
         label: "U18 Schedule"
@@ -152,7 +115,6 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          # - {label: Schedule, name: "schedule", widget: file}
           - {label: Main Content, name: body, widget: markdown, required: false}
 # Club Divisions - end
 # Club Registration
@@ -176,7 +138,6 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Image, name: Image, widget: image, required: false}
           - {label: Main Content, name: body, widget: markdown, required: false}
       - file: "content/club/info/rules.md"
         label: "Rules"
@@ -191,14 +152,14 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: "date", widget: datetime}
-          - {label: Image, name: image, widget: image}
+          - {label: Main Content, name: body, widget: markdown, required: false}
       - file: "content/club/info/sponsors.md"
         label: "Sponsors"
         name: "sponsors"
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Body, name: body, widget: markdown}
+          - {label: Body, name: body, widget: markdown, required: false}
 # Club Info - end
 # Youth Home - start
   - label: Youth Homepage

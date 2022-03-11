@@ -1,6 +1,6 @@
 ---
 title: "U14 Schedule"
-heading: U14 Schedule
+heading: U14 Club Schedule
 date: 2022-02-01T09:28:29-06:00
 draft: false
 menu:
@@ -8,8 +8,5 @@ menu:
     name: "U14 Schedule"
     parent: "u14"
     weight: 110
-
-schedule: https://calendar.google.com/calendar/embed?src=cm8c9020def9drisvqn8fqgmcepgrg6c%40import.calendar.google.com&ctz=America%2FChicago
 ---
-
-{{< schedule >}}
+[![U14 Spring 2022 Schedule](/img/uploads/u14-schedule.jpg)](/img/uploads/u14-schedule.jpg)

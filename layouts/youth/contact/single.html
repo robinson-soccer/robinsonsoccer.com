@@ -2,12 +2,10 @@
 {{ partial "youth/navbar" . }}
 {{ partial "banner" . }}
 <div class="container">
-  <main class="row g-5">
-    <section class="col-lg-8 ">
-      <div class="p-4">
-        <h2 class="mb-4">{{ .Params.heading }}</h2>
-        {{ partial "contact" . }}
-      </div>
+  <main class="row justify-content-around">
+    <section class="col-10 col-lg-7 mt-5">
+      <h2 class="mb-4">{{ .Params.heading }}</h2>
+      {{ partial "contact" . }}
     </section>
     {{ partial "youth/sidebar" . }}
   </main>

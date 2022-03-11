@@ -2,25 +2,13 @@
 {{ partial "club/navbar" . }}
 {{ partial "banner" . }}
 <div class="container">
-  <main class="row g-5">
-    <section class="col-lg-8">
-      <div class="p-4">
-        {{ range  .Params.flyer}}
-        <div class="flyer pb-4">
-          <h2>{{ .heading }}</h2>
-          <img src="{{ .image }}" alt="" class="img-fluid py-4">
-          <p>{{ .description }}</p>
-          <p class="text-danger">{{ .update }}</p>
-          <p><a href="{{ .regURL }}">{{ .regText }}</a></p>
-          <p><a href="{{ .payURL }}">{{ .payText }}</a></p>
-        </div>
-        {{ end }}
-        {{ .Content }}
-      </div>
+  <main class="row justify-content-around">
+    <section class="col-10 col-lg-7 mt-5">
+      {{ .Content }}
+      {{ partial "club/information" . }}
     </section>
     {{ partial "club/sidebar" . }}
   </main>
 </div>
-{{ partial "club/information" . }}
 {{ partial "club/footer" . }}
 {{ end }}

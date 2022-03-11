@@ -10,7 +10,7 @@ menu:
 ---
 ### Step 1: Player Registration
 
-[Click here to register for U12, U14, and U18](#)
+[Click here to register for U12, U14, and U18](https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit)
 
 ---
 
@@ -18,9 +18,9 @@ menu:
 
 Visit the link below, then enter the amount to pay for all players registering for Robinson Soccer Club with one payment.  Cost is $65 per player for U12, U14, and U18.  Maximum of $175 per family.
 
-Please [contact us](#) if there are any problems.
+Please [contact us](/club/contact/) if there are any problems.
 
-[Pay Online](#)
+[Pay Online](https://buy.stripe.com/7sIbKH7Sl9yv9sA000)
 
 ---
 

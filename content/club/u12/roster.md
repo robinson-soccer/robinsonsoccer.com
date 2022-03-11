@@ -1,6 +1,6 @@
 ---
 title: U12 Roster
-heading: U12 Roster
+heading: U12 Club Roster
 date: 2022-02-23T22:56:41.931Z
 draft: false
 menu:
@@ -8,15 +8,10 @@ menu:
     name: U12 Roster
     parent: u12
     weight: 100
-
-roster: /img/uploads/test-roster.pdf
 ---
-<!-- Table shortcode provides bootstrap styling -->
+**Spring 2021**
 
 {{< table class="table" >}}
-
-<!-- Example of table in markdown -->
-<!-- Rows and columns can be added by following current layout -->
 
 | #  | Name        |
 |----|------------ |
@@ -33,8 +28,6 @@ roster: /img/uploads/test-roster.pdf
 | 45 | C. Schrader |
 | 63 | Q. Tuttle   |
 | 64 | H. Bonnell  |
-
-<!-- Closing shortcode element -->
 
 {{< /table >}}
 

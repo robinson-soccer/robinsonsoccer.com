@@ -1,0 +1,4 @@
+<div class="py-2">
+  <img class="img-fluid" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title}} title="{{ . }}"
+    {{ end }} />
+</div>

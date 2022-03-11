@@ -1,6 +1,6 @@
 ---
 title: "U14 Roster"
-heading: U14 Roster
+heading: U14 Club Roster
 date: 2022-02-01T09:28:52-06:00
 draft: false
 menu:
@@ -11,9 +11,9 @@ menu:
 
 roster: 
 ---
-<!-- Do not remove code in handlebars -->
-{{< table class="table table-hover" >}}
+**Spring 2021**
 
+{{< table class="table table-hover" >}}
 
 | #  | Name        |
 |----|-------------|
@@ -33,8 +33,6 @@ roster:
 | 80 | O. Schmidt  |
 | 99 | K. Ault     |
 
+{{< table >}}
 
 **Head Coach:** Hillary Maxwell
-
-<!-- Do not remove code in handlebars -->
-{{< table >}}

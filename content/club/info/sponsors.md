@@ -11,12 +11,20 @@ menu:
 ---
 Robinson Soccer Club is thankful for the donations received from the following businesses. If you're interested in sponsoring the club please [contact us](/club/contact/).
 
-First Robinson Savings Bank\
-Casey State Bank\
-Monical's\
-First National Bank in Olney\
-Lincolnland Agri-Energy LLC\
-Schaefer Family Dental\
-Marathon\
-Elks\
-Crawford County Real Estate Inc.
+**First Robinson Savings Bank**
+
+**Casey State Bank**
+
+**Monical's**
+
+**First National Bank in Olney**
+
+**Lincolnland Agri-Energy LLC**
+
+**Schaefer Family Dental**
+
+**Marathon**
+
+**Elks**
+
+**Crawford County Real Estate Inc.**

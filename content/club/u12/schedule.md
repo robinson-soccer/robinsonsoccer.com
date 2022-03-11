@@ -8,10 +8,11 @@ menu:
     name: U12 Schedule
     parent: u12
     weight: 110
-content:
-  image: /img/uploads/U12.jpg
 ---
-**Spring 2022**
+<!-- Image is a link to itself - creates popout of image -->
+[![U12 Spring 2022 Schedule](/img/uploads/u12-schedule.jpg)](/img/uploads/u12-schedule.jpg)
+
+<!-- **Spring 2022**
 
 {{< table class="table">}}
 
@@ -25,4 +26,4 @@ content:
 | Saturday 5/14 | Game 11:30 vs Charleston | Robinson   | Washington Elementary          |
 | Sunday 5/15   | Game 2:00 vs Sullivan    | Robinson   | Washington Elementary          |
 
-{{< /table >}}
+{{< /table >}} -->
