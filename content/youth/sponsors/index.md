@@ -11,6 +11,7 @@ text: >-
   If you have any questions please contact us via the [contact page](/youth/contact/).
 date: 2022-02-11T16:52:35-06:00
 title: Sponsors
+images: adams-memorials.png
 type: youth/sponsors
 link:
   linkText: Robinson Soccer Sponsorship Form
