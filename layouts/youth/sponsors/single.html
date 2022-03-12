@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ partial "youth/navbar" . }}
+{{ partial "banner" . }}
+<div class="container">
+  <main class="row justify-content-around">
+    <section class="col-10 col-lg-7 mt-5">
+      <h2 class="mb-4">{{ .Params.heading }}</h2>
+      <p>{{ .Params.text }}</p>
+      <p><a href=""></a></p>
+      <div class="container">
+        <div class="row text-center">
+          {{ range .Params.images }}
+          <div class="col-md-4">
+            <img class="img-fluid" src="{{ . }}" alt="">
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </section>
+    {{ partial "youth/sidebar" . }}
+  </main>
+</div>
+{{ partial "youth/footer" . }}
+{{ end }}

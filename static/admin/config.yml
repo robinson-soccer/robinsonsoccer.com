@@ -321,3 +321,20 @@ collections:
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Main Content, name: "body", widget: markdown}
 # Youth Info - end
+# Youth Sponsors - start
+  - label: Youth Sponsors
+    name: sponsors
+    folder: /content/youth/sponsors
+    create: false
+    media_folder: static/img/sponsors
+    public_folder: img/sponsors
+    fields:
+      - {label: Heading, name: heading, widget: string}
+      - {label: Intro, name: text, widget: text}
+      - label: Sponsor Form Link
+        name: link
+        widget: object
+        fields:
+          - {label: Link Text, name: linkText, widget: string}
+          - {label: URL, name: url, widget: string}
+      - {label: Sponsor Images, name: images, widget: list}
