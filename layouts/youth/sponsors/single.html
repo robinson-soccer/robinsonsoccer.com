@@ -9,7 +9,7 @@
       <p><a href="{{ .Params.link.url }}">{{ .Params.link.linkText }}</a></p>
       <div class="container">
         <div class="row text-center">
-          {{ range .Params.images }}
+          {{ range .Params.sponsor.image }}
           <div class="col-md-4">
             <img class="img-fluid" src="{{ . }}" alt="">
           </div>
