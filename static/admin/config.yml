@@ -345,9 +345,6 @@ collections:
             name: sponsorImg
             widget: image
             fields:
-              - label: Sponsor Link
-                name: link
-                widget: object
-                fields:
-                  - {label: URL, name: url, widget: string, required: false}
+              - {label: Sponsor Link, name: url, widget: string, required: false}
+
 
