@@ -11,6 +11,10 @@ text: >-
   If you have any questions please contact us via the [contact page](/youth/contact/).
 date: 2022-02-11T16:52:35-06:00
 title: Sponsors
+images:
+  - sponsorImg: adams-memorials.png
+  - sponsorImg: bertram-pharmacy.png
+  - sponsorImg: best-one-tire-and-service.png
 type: youth/sponsors
 link:
   linkText: Robinson Soccer Sponsorship Form
