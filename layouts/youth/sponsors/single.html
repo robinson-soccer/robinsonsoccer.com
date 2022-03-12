@@ -5,8 +5,8 @@
   <main class="row justify-content-around">
     <section class="col-10 col-lg-7 mt-5">
       <h2 class="mb-4">{{ .Params.heading }}</h2>
-      <p>{{ .Params.text }}</p>
-      <p><a href=""></a></p>
+      <p>{{ .Params.text | markdownify }}</p>
+      <p><a href="{{ .Params.link.url }}">{{ .Params.link.linkText }}</a></p>
       <div class="container">
         <div class="row text-center">
           {{ range .Params.images }}
