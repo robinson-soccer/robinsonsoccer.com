@@ -326,8 +326,8 @@ collections:
     name: sponsors
     folder: /content/youth/sponsors
     create: false
-    media_folder: static/img/sponsors
-    public_folder: img/sponsors
+    media_folder: ""
+    public_folder: ""
     fields:
       - {label: Heading, name: heading, widget: string}
       - {label: Intro, name: text, widget: text}
@@ -338,7 +338,5 @@ collections:
           - {label: Link Text, name: linkText, widget: string}
           - {label: URL, name: url, widget: string}
       - label: Sponsor Images
-        name: sponsor
-        widget: list
-        fields:
-          - {label: Image, name: image, widget: image}
+        name: images
+        widget: image
