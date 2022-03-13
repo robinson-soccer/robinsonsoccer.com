@@ -325,7 +325,7 @@ collections:
               - {label: Link Address, name: href, widget: string, hint: Relative address (same as title of sponsor pages)}
   - label: Youth Sponsor Pages
     name: pages
-    folder: content/youth/sponsors/pages
+    folder: content/youth/sponsors/
     create: true
     media_folder: ""
     public_folder: ""
