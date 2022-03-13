@@ -5,11 +5,10 @@ backend:
 # publish_mode: editorial_workflow
 
 media_library:
-  name: uploadcare
+  name: cloudinary
   config:
-    publicKey: 8df5a80faf9e1b9a4101
-  settings:
-    autoFilename: true
+    cloud_name: robinson-soccer
+    api_key: 567475536231925
 
 # site_url: https://www.robinsonsoccer.com
 
