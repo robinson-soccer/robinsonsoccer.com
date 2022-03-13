@@ -4,9 +4,10 @@ backend:
 
 # publish_mode: editorial_workflow
 
-media_folder: static/img/uploads
-
-public_folder: /img/uploads
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 8df5a80faf9e1b9a4101 
 
 # site_url: https://www.robinsonsoccer.com
 
@@ -297,11 +298,33 @@ collections:
           - {label: Main Content, name: "body", widget: markdown}
 # Youth Info - end
 # Youth Sponsors - start
+  - label: Youth Sponsor Gallery
+    name: youth sponsors
+    files:
+      - file: content/youth/sponsors/_index.md
+        label: Sponsors
+        name: sponsors
+        fields:
+          - {label: Heading, name: heading, widget: string}
+          - {label: Publish Date, name: date, widget: datetime}
+          - {label: Intro, name: text, widget: text}
+          - {label: Type, name: type, widget: hidden, default: youth/sponsors}
+          - label: Sponsor Form Link
+            name: link
+            widget: object
+            fields:
+              - {label: Link Text, name: linkText, widget: string}
+              - {label: URL, name: url, widget: string}
+          - label: Images
+            name: resources
+            widget: list
+            fields:
+              - {label: Image, name: src, widget: image}
+              - {label: Alt Text, name: alt, widget: string, required: false}
+              - {label: Link Address, name: href, widget: string, hint: Relative address (same as title of sponsor pages)}
   - label: Youth Sponsor Pages
     name: sponsors
-    folder: content/youth/sponsors/
-    media_folder: ""
-    public_folder: ""
+    folder: content/youth/sponsors/pages
     create: true
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
@@ -315,4 +338,4 @@ collections:
           - {label: Image, name: src, widget: image}
           - {label: Image Alt Text, name: alt, widget: string}
       - {label: Sponsor Info, name: text, widget: text}
-      - {label: Type, name: type, widget: hidden, default: youth/sponsors}
+      - {label: Type, name: type, widget: hidden, default: youth/sponsors/pages}

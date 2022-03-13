@@ -12,7 +12,7 @@ text:
 resources:
   - alt: Adams Memorials logo
     src: adams-memorials.png
-    href: adams-memorials
+    href: pages/adams-memorials
 link:
   linkText: Robinson Soccer Sponsorship Form
   url: "robinson-soccer-sponsorship-form.pdf"
