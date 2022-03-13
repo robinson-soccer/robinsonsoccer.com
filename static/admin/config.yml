@@ -328,8 +328,8 @@ collections:
       - file: content/youth/sponsors/_index.md
         label: Sponsors
         name: sponsors
-        media_folder: "content/youth/sponsors"
-        public_folder: "/youth/sponsors"
+        media_folder: ""
+        public_folder: ""
         fields:
           - {label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
