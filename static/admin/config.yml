@@ -332,11 +332,5 @@ collections:
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Draft, name: draft, widget: hidden, default: false}
       - {label: Heading, name: heading, widget: string, hint: Heading above main content}
-      - label: Image Resources
-        name: resources
-        widget: object
-        fields:
-          - {label: Image, name: src, widget: image}
-          - {label: Image Alt Text, name: alt, widget: string}
-      - {label: Sponsor Info, name: text, widget: text}
       - {label: Type, name: type, widget: hidden, default: youth/sponsors/pages}
+      - {label: Main Content, name: body, widget: markdown}

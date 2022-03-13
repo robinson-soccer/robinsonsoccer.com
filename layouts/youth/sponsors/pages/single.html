@@ -5,10 +5,11 @@
   <main class="row justify-content-around">
     <section class="col-10 col-lg-7 mt-5 text-center">
       <h2 class="mb-4">{{ .Params.heading }}</h2>
-      {{ range .Params.resources }}
+      {{/*  {{ range .Params.resources }}
       <img src="{{.src}}" alt="{{.alt}}">
       {{ end }}
-      <p class="mt-4">{{ .Params.text }}</p>
+      <p class="mt-4">{{ .Params.text }}</p> */}}
+      {{ .Content }}
     </section>
     {{ partial "youth/sidebar" . }}
   </main>
