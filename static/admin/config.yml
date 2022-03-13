@@ -13,31 +13,6 @@ public_folder: /img/uploads
 # display_url: robinsonsoccer.com
 
 collections:
-  - label: Example
-    name: "example"
-    create: true
-    folder: content/example
-    fields:
-      - {label: Title, name: title, widget: string}
-      - {label: Heading, name: heading, widget: string}
-      - {label: Publish Date, name: date, widget: datetime}
-      - label: Main Content
-        name: main content
-        widget: object
-        fields:
-          - label: Text Body
-            name: text body
-            hint: "Create a new text widget for each paragraph"
-            widget: list
-            fields:
-              - {label: Text, name: text, widget: text, required: false}
-          - {label: Image, name: image, widget: image, required: false}
-      - {label: Body, name: body, widget: markdown, required: false, hint: Optional way to input text and images into main content area}
-
-
-
-
-          
 # Announcements - start
   - label: "Announcements"
     name: "announcements"
