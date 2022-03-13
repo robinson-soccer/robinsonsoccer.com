@@ -298,7 +298,7 @@ collections:
 # Youth Info - end
 # Youth Sponsors - start
   - label: Youth Sponsor Pages
-    name: pages
+    name: sponsors
     folder: content/youth/sponsors/
     create: true
     media_folder: ""
