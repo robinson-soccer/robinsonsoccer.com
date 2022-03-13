@@ -323,7 +323,7 @@ collections:
 # Youth Info - end
 # Youth Sponsors - start
   - label: Youth Sponsor Gallery
-    name: sponsor gallery
+    name: youth sponsors
     files:
       - file: content/youth/sponsors/_index.md
         label: Sponsors
@@ -350,10 +350,10 @@ collections:
               - {label: Link Address, name: href, widget: string, hint: Relative address (same as title of sponsor pages)}
   - label: Youth Sponsor Pages
     name: sponsor pages
-    folder: /content/youth/sponsors
+    folder: content/youth/sponsors/pages
     create: true
-    media_folder: ""
-    public_folder: ""
+    media_folder: "content/youth/sponsors"
+    public_folder: "/youth/sponsors"
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
       - {label: Publish Date, name: date, widget: datetime}
