@@ -14,6 +14,9 @@ resources:
   - src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647187952/Sponsors/adams-memorials_vdlfhc.png
     alt: Adams Memorial Logo
     href: ../sponsors/pages/adams-memorials/
+  - href: ../sponsors/pages/bertram-pharmacy
+    src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647188004/Sponsors/bertram-pharmacy_nodano.png
+    alt: Bertram Pharmacy Logo
 title: Sponsors
 type: youth/sponsors
 link:
