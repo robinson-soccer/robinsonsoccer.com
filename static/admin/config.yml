@@ -300,8 +300,8 @@ collections:
   - label: Youth Sponsor Pages
     name: sponsors
     folder: content/youth/sponsors/
-    media_folder: "static/img/sponsors"
-    public_folder: "/img/sponsors"
+    media_folder: "content/youth/sponsors"
+    public_folder: "/youth/sponsors"
     create: true
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
