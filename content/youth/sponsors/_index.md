@@ -13,7 +13,7 @@ text: >-
 resources:
   - src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647187952/Sponsors/adams-memorials_vdlfhc.png
     alt: Adams Memorial Logo
-    href: /pages/adams-memorials
+    href: ../sponsors/pages/adams-memorials/
 title: Sponsors
 type: youth/sponsors
 link:
