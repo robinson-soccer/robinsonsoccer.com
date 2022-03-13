@@ -324,8 +324,7 @@ collections:
 # Youth Sponsors - start
   - label: Youth Sponsor Gallery
     name: sponsor gallery
-    folder: /content/youth/sponsors
-    create: false
+    file: /content/youth/sponsors/_index.md
     media_folder: ""
     public_folder: ""
     fields:
