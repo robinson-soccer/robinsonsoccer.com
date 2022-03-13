@@ -7,7 +7,9 @@ backend:
 media_library:
   name: uploadcare
   config:
-    publicKey: 8df5a80faf9e1b9a4101 
+    publicKey: 8df5a80faf9e1b9a4101
+  settings:
+    autoFilename: true
 
 # site_url: https://www.robinsonsoccer.com
 
