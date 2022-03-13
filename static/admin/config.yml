@@ -349,11 +349,11 @@ collections:
               - {label: Alt Text, name: alt, widget: string, required: false}
               - {label: Link Address, name: href, widget: string, hint: Relative address (same as title of sponsor pages)}
   - label: Youth Sponsor Pages
-    name: sponsor pages
+    name: pages
     folder: content/youth/sponsors/pages
     create: true
-    media_folder: "static/img/sponsors"
-    public_folder: "/img/sponsors"
+    media_folder: ""
+    public_folder: ""
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
       - {label: Publish Date, name: date, widget: datetime}
