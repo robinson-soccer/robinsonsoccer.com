@@ -352,8 +352,8 @@ collections:
     name: sponsor pages
     folder: content/youth/sponsors/pages
     create: true
-    media_folder: "content/youth/sponsors"
-    public_folder: "/youth/sponsors"
+    media_folder: "static/img/sponsors"
+    public_folder: "/img/sponsors"
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
       - {label: Publish Date, name: date, widget: datetime}
