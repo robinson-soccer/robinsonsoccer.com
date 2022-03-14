@@ -13,4 +13,4 @@ Bertram Pharmacy
 
 Phone (618) 544-2167
 
-Website: [bertrampharmacy.com](https://bertrampharmacy.com)
+[bertrampharmacy.com](https://bertrampharmacy.com)
