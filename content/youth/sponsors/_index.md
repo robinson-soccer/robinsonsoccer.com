@@ -11,12 +11,15 @@ text: >-
 
   If you have any questions please contact us via the [contact page](/youth/contact/).
 resources:
-  - src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647187952/Sponsors/adams-memorials_vdlfhc.png
+  - src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647271408/Youth/Sponsors/adams-memorials_zklfkb.png
     alt: Adams Memorial Logo
     href: ../sponsors/pages/adams-memorials/
-  - href: ../sponsors/pages/bertram-pharmacy
-    src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647188004/Sponsors/bertram-pharmacy_nodano.png
+  - href: ../sponsors/pages/bertram-pharmacy/
+    src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647271424/Youth/Sponsors/bertram-pharmacy_r7nom8.png
     alt: Bertram Pharmacy Logo
+  - href: ../sponsors/pages/best-one-tire-and-service/
+    src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647271436/Youth/Sponsors/best-one-tire-and-service_x3ndry.png
+    alt: Best One Tire Logo
 title: Sponsors
 type: youth/sponsors
 link:
