@@ -10,9 +10,9 @@ media_library:
     cloud_name: robinson-soccer
     api_key: 567475536231925
 
-# site_url: https://www.robinsonsoccer.com
+site_url: https://naughty-einstein-3fbf9d.netlify.app/
 
-# display_url: robinsonsoccer.com
+display_url: robinsonsoccer.com
 
 collections:
 # Announcements - start
@@ -308,6 +308,7 @@ collections:
         fields:
           - {label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
+          - {label: Intro, name: body, widget: markdown}
           - {label: Intro, name: text, widget: text}
           - {label: Type, name: type, widget: hidden, default: youth/sponsors}
           - label: Sponsor Form Link
