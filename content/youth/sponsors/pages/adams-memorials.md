@@ -13,4 +13,4 @@ Adams Memorials
 
 (618) 544-2015
 
-Website: [adamsmemorials.com](https://www.adamsmemorials.com)
+[adamsmemorials.com](https://www.adamsmemorials.com)
