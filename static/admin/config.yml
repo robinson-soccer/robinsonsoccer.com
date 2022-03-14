@@ -306,11 +306,7 @@ collections:
         label: Sponsors
         name: sponsors
         fields:
-          - {label: Heading, name: heading, widget: string}
           - {label: Publish Date, name: date, widget: datetime}
-          - {label: Intro, name: body, widget: markdown}
-          - {label: Intro, name: text, widget: text}
-          - {label: Type, name: type, widget: hidden, default: youth/sponsors}
           - label: Sponsor Form Link
             name: link
             widget: object
