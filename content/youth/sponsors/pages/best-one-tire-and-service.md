@@ -11,4 +11,4 @@ type: youth/sponsors/pages
 
 (618) 544-3811
 
-Website: [bestonetireandservice-sit.com](https://www.bestonetireandservice-sit.com/)
+[bestonetireandservice-sit.com](https://www.bestonetireandservice-sit.com/)
