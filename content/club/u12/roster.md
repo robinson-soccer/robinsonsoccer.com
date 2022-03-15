@@ -9,11 +9,11 @@ menu:
     parent: u12
     weight: 100
 ---
-<!-- **Spring 2021**
+**Spring 2021**
 
 {{< table class="table" >}}
 
-| #  | Name        |
+| #  | Name         |
 |-----|-------------|
 | 2   | Z. Tuttle   |
 | 6   | C. Zehner   |
@@ -31,4 +31,4 @@ menu:
 
 {{< /table >}}
 
-**Head Coach:** Tanya Reed -->
+**Head Coach:** Tanya Reed
