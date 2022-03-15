@@ -4,11 +4,11 @@ backend:
 
 # publish_mode: editorial_workflow
 
-media_library:
-  name: cloudinary
-  config:
-    cloud_name: robinson-soccer
-    api_key: 567475536231925
+# media_library:
+#   name: cloudinary
+#   config:
+#     cloud_name: robinson-soccer
+#     api_key: 567475536231925
 
 site_url: https://naughty-einstein-3fbf9d.netlify.app/
 
@@ -324,6 +324,8 @@ collections:
     name: sponsors
     folder: content/youth/sponsors/pages
     create: true
+    media_library: ""
+    public_library: ""
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
       - {label: Publish Date, name: date, widget: datetime}
