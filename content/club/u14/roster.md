@@ -10,9 +10,7 @@ menu:
     weight: 100
 roster: null
 ---
-![2022 Spring U14 Schedule](https://res.cloudinary.com/robinson-soccer/image/upload/v1647382973/Club/Divisions/U14/u14-schedule_escs6c.jpg)
-
-<!-- \*\*Spring 2021\*\*
+<!-- \\*\\*Spring 2021\\*\\*
 
 {{< table class="table table-hover" >}}
 
@@ -36,4 +34,4 @@ roster: null
 
 {{< table >}}
 
-\*\*Head Coach:\*\* Hillary Maxwell -->
+\\*\\*Head Coach:\\*\\* Hillary Maxwell -->
