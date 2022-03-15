@@ -4,15 +4,11 @@ backend:
 
 # publish_mode: editorial_workflow
 
-# media_library:
-#   name: cloudinary
-#   config:
-#     cloud_name: robinson-soccer
-#     api_key: 567475536231925
-
-media_folder: static/img/uploads
-public_folder: /img/uploads
-  
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: robinson-soccer
+    api_key: 567475536231925
 
 site_url: https://naughty-einstein-3fbf9d.netlify.app/
 
@@ -324,38 +320,16 @@ collections:
               - {label: Image, name: src, widget: image}
               - {label: Alt Text, name: alt, widget: string, required: false}
               - {label: Link Address, name: href, widget: string, default: ../sponsors/pages/example-page, hint: Replace "example-page" with title of corresponding sponsor page. Use hyphens for spaces}
-  # - label: Youth Sponsor Pages
-  #   name: sponsors
-  #   folder: content/youth/sponsors/pages
-  #   create: true
-  #   media_library: ""
-  #   public_library: ""
-  #   fields:
-  #     - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
-  #     - {label: Publish Date, name: date, widget: datetime}
-  #     - {label: Draft, name: draft, widget: hidden, default: false}
-  #     - {label: Heading, name: heading, widget: string, hint: Heading above main content}
-  #     - {label: Type, name: type, widget: hidden, default: youth/sponsors/pages}
-  #     - {label: Main Content, name: body, widget: markdown}
   - label: Youth Sponsor Pages
-    name: sponsor-pages
-    folder: content/youth/sponsor-pages/
+    name: sponsor pages
+    folder: content/youth/sponsors/pages
     create: true
-    media_library: "content/youth/sponsor-pages/"
-    public_library: "content/youth/sponsor-pages/"
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
       - {label: Publish Date, name: date, widget: datetime}
       - {label: Draft, name: draft, widget: hidden, default: false}
       - {label: Heading, name: heading, widget: string, hint: Heading above main content}
-      - label: Sponsor Logo
-        name: image
-        widget: object
-        fields:
-          - {label: Image, name: src, widget: image}
-          - {label: Alt Text, name: alt, widget: string, hint: Text displayed if image is broken}
-      - label: Sponsor Info
-        name: text
-        widget: text
-        hint: Use markdown format in text field
+      - {label: Type, name: type, widget: hidden, default: youth/sponsors/pages}
+      - {label: Main Content, name: body, widget: markdown}
+ 
 
