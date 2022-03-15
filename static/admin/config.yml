@@ -10,8 +10,8 @@ backend:
 #     cloud_name: robinson-soccer
 #     api_key: 567475536231925
 
-media_folder: ''
-public_folder: ''
+media_folder: static/images
+public_folder: /images
 
 site_url: https://naughty-einstein-3fbf9d.netlify.app/
 
