@@ -10,7 +10,7 @@ menu:
     weight: 100
 roster: null
 ---
-<!-- \\*\\*Spring 2021\\*\\*
+**Spring 2021**
 
 {{< table class="table table-hover" >}}
 
@@ -34,4 +34,4 @@ roster: null
 
 {{< table >}}
 
-\\*\\*Head Coach:\\*\\* Hillary Maxwell -->
+**Head Coach:** Hillary Maxwell
