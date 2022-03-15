@@ -9,11 +9,9 @@ menu:
     parent: u12
     weight: 110
 ---
-<!-- Image is a link to itself - creates popout of image -->
+![U12 Spring 2022 Schedule](https://res.cloudinary.com/robinson-soccer/image/upload/v1647382958/Club/Divisions/U12/u12-schedule_nuhhvr.jpg)
 
-![U12 Spring 2022 Schedule](/img/uploads/u12-schedule.jpg)
-
-**Spring 2022**
+<!-- \*\*Spring 2022\*\*
 {{< table class="table" >}}
 | Date          | Event                    | Location   | Notes                          |
 |---------------|--------------------------|------------|--------------------------------|
@@ -24,4 +22,4 @@ menu:
 | Sunday 5/8    | Game 3:00 vs Charleston  | Charleston | Hi-Cone Fields                 |
 | Saturday 5/14 | Game 11:30 vs Charleston | Robinson   | Washington Elementary          |
 | Sunday 5/15   | Game 2:00 vs Sullivan    | Robinson   | Washington Elementary          |
-{{< /table >}}
+{{< /table >}} -->
