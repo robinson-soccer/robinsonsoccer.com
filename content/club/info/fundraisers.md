@@ -9,4 +9,4 @@ menu:
     parent: info
     weight: 100
 ---
-![Coming Soon](/img/uploads/coming-soon.jpg)
+![Coming Soon](https://res.cloudinary.com/robinson-soccer/image/upload/v1647384379/Site/coming-soon_lmmtsg.jpg)
