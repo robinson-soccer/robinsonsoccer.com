@@ -10,8 +10,9 @@ backend:
 #     cloud_name: robinson-soccer
 #     api_key: 567475536231925
 
-media_folder: static/img
-public_folder: /img
+media_folder: static/img/uploads
+public_folder: /img/uploads
+  
 
 site_url: https://naughty-einstein-3fbf9d.netlify.app/
 
@@ -337,11 +338,11 @@ collections:
   #     - {label: Type, name: type, widget: hidden, default: youth/sponsors/pages}
   #     - {label: Main Content, name: body, widget: markdown}
   - label: Youth Sponsor Pages
-    name: sponsors
-    folder: content/youth/sponsors-pages
+    name: sponsor-pages
+    folder: content/youth/sponsor-pages/
     create: true
-    media_library: ''
-    public_library: ''
+    media_library: "content/youth/sponsor-pages/"
+    public_library: "content/youth/sponsor-pages/"
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
       - {label: Publish Date, name: date, widget: datetime}
