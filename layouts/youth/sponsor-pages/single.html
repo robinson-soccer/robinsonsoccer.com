@@ -1,0 +1,17 @@
+{{ define "main" }}
+{{ partial "youth/navbar" . }}
+{{ partial "banner" . }}
+<div class="container">
+  <main class="row justify-content-around">
+    <section class="col-10 col-lg-7 mt-5 text-center">
+      <h2 class="mb-4">{{ .Params.heading }}</h2>
+      {{ with .Params.image }}
+      <img src="{{.src}}" alt="{{.alt}}">
+      {{ end }}
+      <p class="mt-4">{{ .Params.text | markdownify }}</p> */}}
+    </section>
+    {{ partial "youth/sidebar" . }}
+  </main>
+</div>
+{{ partial "youth/footer" . }}
+{{ end }}
