@@ -15,8 +15,8 @@ menu:
 
 | #  | Name        |
 |----|-------------|
-| 1	 | C. Nidey    |
-| 7	 | P. Bugle    |
+| 1  | C. Nidey    |
+| 7  | P. Bugle    |
 | 15 | D. Davis    |
 | 25 | A. Harmon   |
 | 28 | A. Wesley   |
