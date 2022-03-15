@@ -327,8 +327,8 @@ collections:
     name: sponsors
     folder: content/youth/sponsors/pages
     create: true
-    # media_library: ""
-    # public_library: ""
+    media_library: ""
+    public_library: ""
     fields:
       - {label: Title, name: title, widget: string, hint: Will appear in browser tab. Also part of file name.}
       - {label: Publish Date, name: date, widget: datetime}
