@@ -9,9 +9,9 @@ menu:
     parent: u18
     weight: 100
 ---
-**Spring 2021**
-
 {{< table class="table" >}}
+
+**Sample**
 
 | #  | Name        |
 |----|-------------|
@@ -32,6 +32,6 @@ menu:
 | 72 | A. Schrader |
 | 78 | E. McColpin |
 
-{{< /table >}}
-
 **Head Coach:** Mark Hermann
+
+{{< /table >}}
