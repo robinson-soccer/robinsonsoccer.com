@@ -13,13 +13,13 @@ menu:
 
 **Week 1 (Sample)**
 
-| Date           | Event                                        | Location        |
-| -------------- | -------------------------------------------- | --------------- |
-| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
-|                |                                              |                 |
-|                |                                              |                 |
-|                |                                              |                 |
-|                |                                              |                 |
+| Date           | Event                                                                  | Location        |
+| -------------- | ---------------------------------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac                           | Beginner (East) |
+|                | 10:00 a.m. Crouse Towing & Recovery vs. First Robinson Savings Bank    | Beginner (West) |
+|                | 10:30 a.m. Midwest Transport Inc. vs. Casey's                          | Beginner (East) |
+|                | 11:00 a.m. Adams Memorials vs. Connor & Connor                         | Beginner (West) |
+|                | 11:30 a.m. Joe's Italian Food and Pizza vs. Flat Rock Telephone, Co-op | Beginner (East) |
 
 **Week 2 (Sample)**
 
