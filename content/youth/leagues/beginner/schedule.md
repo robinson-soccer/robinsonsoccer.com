@@ -9,4 +9,3 @@ menu:
     parent: beginner
     weight: 210
 ---
-{{< iframe src="/img/uploads/2021-beginner-league-schedule.pdf" >}}
