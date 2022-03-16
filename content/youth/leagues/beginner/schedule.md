@@ -9,7 +9,7 @@ menu:
     parent: beginner
     weight: 210
 ---
-**Week 1**
+**Week 1 (Sample)**
 
 {{< table class="table" >}}
 
