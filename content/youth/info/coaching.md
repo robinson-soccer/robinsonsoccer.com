@@ -1,5 +1,5 @@
 ---
-title: "Coaching"
+title: Coaching
 date: 2022-02-11T17:14:08-06:00
 draft: false
 heading: Coaching
@@ -10,15 +10,13 @@ menu:
     url: /youth/info/coaching/
     weight: 160
 ---
-
 Amost every year we are in need of coaches for all age groups.  If you have the time and desire please consider coaching a team!  It's okay if you don't know too much about soccer.  Below are some videos, manuals and activities that were created for the US Youth Soccer organization.
 
 Coaches are encouraged to practice once a week throughout the season for the youngest age group and twice a week for the oldest age groups.
 
-**US Youth Soccer Education Videos**
+**US Youth Soccer Education Video**
 
-[![US Youth Soccer YouTube](/img/US-Youth-Soccer-YouTube.png "US Youth Soccer - Youtube")](https://www.youtube.com/playlist?list=PL805D77038B88D895)
-
+![US Youth Soccer Youtube Logo](https://res.cloudinary.com/robinson-soccer/image/upload/v1647437022/Youth/Info/US-Youth-Soccer-YouTube_d0wcjo.png)
 
 **US Youth Soccer Manual & Activities (PDF)**
 
@@ -44,7 +42,7 @@ Coaches are encouraged to practice once a week throughout the season for the you
 
 [U10 Receiving Lofted Balls](https://www.usyouthsoccer.org/file.aspx?DocumentId=27)
 
-[U12 Defending]()
+[U12 Defending](<>)
 
 [U12 Practice Activities](#)
 
