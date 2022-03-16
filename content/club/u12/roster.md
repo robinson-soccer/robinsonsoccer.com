@@ -9,9 +9,9 @@ menu:
     parent: u12
     weight: 100
 ---
-**Spring 2021**
-
 {{< table class="table" >}}
+
+**Sample**
 
 | #  | Name         |
 |-----|-------------|
@@ -29,6 +29,6 @@ menu:
 | 63  | Q. Tuttle   |
 | 64  | H. Bonnell  |
 
-{{< /table >}}
-
 **Head Coach:** Tanya Reed
+
+{{< /table >}}
