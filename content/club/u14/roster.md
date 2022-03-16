@@ -10,9 +10,9 @@ menu:
     weight: 100
 roster: null
 ---
-**Spring 2021**
-
 {{< table class="table table-hover" >}}
+
+**Sample**
 
 | #  | Name        |
 |----|-------------|
@@ -32,6 +32,6 @@ roster: null
 | 80 | O. Schmidt  |
 | 99 | K. Ault     |
 
-{{< table >}}
-
 **Head Coach:** Hillary Maxwell
+
+{{< table >}}
