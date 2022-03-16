@@ -12,6 +12,8 @@ menu:
 ---
 {{< table class="table" >}}
 
+**Sample**
+
 | #   | Name        |
 | --- | ----------- |
 | 1   | C. Nidey    |
