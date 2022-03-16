@@ -1,6 +1,10 @@
 baseURL: /
 languageCode: en-us
 title: Robinson Soccer
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
 params:
   lineOne: Register Online Now!
   lineTwo: The spring 2022 season will be open to all Crawford and Lawrence
