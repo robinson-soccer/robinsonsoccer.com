@@ -21,8 +21,6 @@ menu:
 |                |                                              |                 |
 |                |                                              |                 |
 
-
-
 **Week 2 (Sample)**
 
 | Date           | Event                                        | Location        |
@@ -32,8 +30,6 @@ menu:
 |                |                                              |                 |
 |                |                                              |                 |
 |                |                                              |                 |
-
-
 
 **Week 3 (Sample)**
 
@@ -45,8 +41,6 @@ menu:
 |                |                                              |                 |
 |                |                                              |                 |
 
-
-
 **Week 4 (Sample)**
 
 | Date           | Event                                        | Location        |
@@ -56,8 +50,6 @@ menu:
 |                |                                              |                 |
 |                |                                              |                 |
 |                |                                              |                 |
-
-
 
 **Week 5 (Sample)**
 
@@ -69,8 +61,6 @@ menu:
 |                |                                              |                 |
 |                |                                              |                 |
 
-
-
 **Week 6 (Sample)**
 
 | Date           | Event                                        | Location        |
@@ -80,8 +70,6 @@ menu:
 |                |                                              |                 |
 |                |                                              |                 |
 |                |                                              |                 |
-
-
 
 **Week 7 (Sample)**
 
