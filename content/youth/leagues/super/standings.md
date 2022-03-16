@@ -13,6 +13,8 @@ menu:
 
 {{< table class="table" >}}
 
+**Sample**
+
 | # | Club            | Points | Wins | Ties | Losses |
 |---|-----------------|--------|------|------|--------|
 | 1 | Orlando City SC | 18     | 8    | 2    | 1      |
