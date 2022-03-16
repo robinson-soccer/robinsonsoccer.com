@@ -9,7 +9,7 @@ menu:
     parent: u12
     weight: 110
 ---
-![U12 Spring 2022 Schedule](https://res.cloudinary.com/robinson-soccer/image/upload/v1647382958/Club/Divisions/U12/u12-schedule_nuhhvr.jpg)
+[![U12 Spring 2022 Schedule](https://res.cloudinary.com/robinson-soccer/image/upload/v1647382958/Club/Divisions/U12/u12-schedule_nuhhvr.jpg)](https://res.cloudinary.com/robinson-soccer/image/upload/v1647382958/Club/Divisions/U12/u12-schedule_nuhhvr.jpg)
 
 <!-- \*\*Spring 2022\*\*
 {{< table class="table" >}}
