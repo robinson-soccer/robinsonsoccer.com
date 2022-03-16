@@ -9,4 +9,76 @@ menu:
     parent: beginner
     weight: 210
 ---
-{{< iframe src="/img/uploads/2021-beginner-league-schedule.pdf" >}}
+{{< table class="table" >}}
+
+**Week 1 (Sample)**
+
+| Date           | Event                                                                  | Location        |
+| -------------- | ---------------------------------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac                           | Beginner (East) |
+|                | 10:00 a.m. Crouse Towing & Recovery vs. First Robinson Savings Bank    | Beginner (West) |
+|                | 10:30 a.m. Midwest Transport Inc. vs. Casey's                          | Beginner (East) |
+|                | 11:00 a.m. Adams Memorials vs. Connor & Connor                         | Beginner (West) |
+|                | 11:30 a.m. Joe's Italian Food and Pizza vs. Flat Rock Telephone, Co-op | Beginner (East) |
+
+**Week 2 (Sample)**
+
+| Date           | Event                                        | Location        |
+| -------------- | -------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+
+**Week 3 (Sample)**
+
+| Date           | Event                                        | Location        |
+| -------------- | -------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+
+**Week 4 (Sample)**
+
+| Date           | Event                                        | Location        |
+| -------------- | -------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+
+**Week 5 (Sample)**
+
+| Date           | Event                                        | Location        |
+| -------------- | -------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+
+**Week 6 (Sample)**
+
+| Date           | Event                                        | Location        |
+| -------------- | -------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+
+**Week 7 (Sample)**
+
+| Date           | Event                                        | Location        |
+| -------------- | -------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+|                |                                              |                 |
+
+{{< /table >}}
