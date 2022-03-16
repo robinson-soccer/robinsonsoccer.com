@@ -9,3 +9,12 @@ menu:
     parent: beginner
     weight: 210
 ---
+**Week 1**
+
+{{< table class="table" >}}
+
+| Date           | Event                                        | Location        |
+| -------------- | -------------------------------------------- | --------------- |
+| Saturday, 9/11 | 9:30 a.m. Weber Title vs. Robinson Sew & Vac | Beginner (East) |
+
+{{< /table >}}
