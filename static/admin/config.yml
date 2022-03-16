@@ -144,8 +144,8 @@ collections:
     name: "youth homepage"
     files:
       - file: "content/youth/_index.md"
-        label: "Youth Home"
-        name: "youth home"
+        label: "Home"
+        name: "youth"
         fields: 
           - {label: Publish Date, name: "date", widget: datetime}
           - {label: Main Content, name: body, widget: markdown}
