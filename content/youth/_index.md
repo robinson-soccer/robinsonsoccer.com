@@ -13,8 +13,8 @@ menu:
 
 [![Challenger Half Day Camp Photo](https://res.cloudinary.com/robinson-soccer/image/upload/v1647279719/Youth/Home/2021-challenger-half-day-small_y620qc.png)](https://res.cloudinary.com/robinson-soccer/image/upload/v1647279719/Youth/Home/2021-challenger-half-day-small_y620qc.png)
 
-[2021 Challenger Half Day](https://res.cloudinary.com/robinson-soccer/image/upload/v1647279719/Youth/Home/2021-challenger-half-day-small_y620qc.png)
 
-[![Challenger Tiny Tykes Camp Photo](/img/uploads/2021-challenger-tinytykes-small.png)](/img/uploads/2021-challenger-tinytykes-small.png)
 
-[2021 Challenger Tiny Tykes](/img/uploads/2021-challenger-tinytykes-small.png)
+
+
+[
