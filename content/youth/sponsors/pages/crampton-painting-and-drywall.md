@@ -10,4 +10,4 @@ type: youth/sponsors/pages
 Crampton Painting & Drywall\
 105 North Jackson Street\
 (618) 562-9723\
-[facebook.com/Crampton-Painting-Drywall-LLC-278761313246](https://www.facebook.com/Crampton-Painting-Drywall-LLC-278761313246/)
+[facebook.com/Crampton-Painting-Drywall-LLC](https://www.facebook.com/Crampton-Painting-Drywall-LLC-278761313246/)
