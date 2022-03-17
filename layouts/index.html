@@ -26,9 +26,9 @@
         </div>
       </div>
     </nav>
-
+    {{ if  .Site.Params.text }}
     {{ partial "banner" . }}
-
+    {{ end }}
     <section class="container">
       <div class="row justify-content-evenly">
         <div class="col-10 col-lg-5 mt-5">

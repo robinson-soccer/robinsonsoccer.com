@@ -3,9 +3,12 @@
       <section class="row justify-content-around mt-5">
         <div class="col-10 col-lg-12">
           <div id="banner" class="p-4 shadow text-center">
-            <p class="h4 text-danger">{{ .Site.Params.lineOne }}</p>
-            <p class="lead">{{ .Site.Params.lineTwo }}</p>
-            <p class="text-muted">{{ .Site.Params.lineThree }}</p>
+            {{ with .Site.Params }}
+
+            <p>{{ .text | markdownify }}</p>
+            {{/*  <p class="lead">{{ .lineTwo }}</p>
+            <p class="text-muted">{{ .lineThree }}</p> */}}
+            {{ end }}
           </div>
         </div>
       </section>

@@ -21,15 +21,16 @@ collections:
     files:
       - file: "config.yaml"
         label: "Banner"
-        name: "banner"
+        name: "params"
         fields:
-          - label: Content
-            name: "params"
-            widget: object
-            fields:
-              - {label: Line One, name: "lineOne", widget: string}
-              - {label: Line Two, name: "lineTwo", required: false, widget: string}
-              - {label: Line Three, name: "lineThree", widget: string}
+          - {label: Body, name: text, widget: markdown, required: false}
+          # - label: Content
+          #   name: "params"
+          #   widget: object
+          #   fields:
+          #     - {label: Line One, name: "lineOne", widget: string}
+          #     - {label: Line Two, name: "lineTwo", required: false, widget: string}
+          #     - {label: Line Three, name: "lineThree", widget: string}
 # Announcements - end
 # Club Home - start
   - label: "Club Homepage"
