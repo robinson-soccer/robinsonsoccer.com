@@ -9,4 +9,4 @@ type: youth/sponsors/pages
 
 11744 North 1200th Street\
 (618) 554-1182\
-[https://www.facebook.com/pages/category/Towing-Service/Crouse-Towing-and-Wrecker-Service-120754408335701/](https://www.facebook.com/pages/category/Towing-Service/Crouse-Towing-and-Wrecker-Service-120754408335701/)
+[facebook.com/Crouse-Towing-and-Wrecker-Service](https://www.facebook.com/pages/category/Towing-Service/Crouse-Towing-and-Wrecker-Service-120754408335701/)
