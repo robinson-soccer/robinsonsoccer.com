@@ -6,8 +6,4 @@ markup:
     renderer:
       unsafe: true
 params:
-  text: >-
-    #### This is a test announcement!
-
-
-    This is another line of the announcement.  If you have any questions feel free to contact us at example@example.com
+  text: ""
