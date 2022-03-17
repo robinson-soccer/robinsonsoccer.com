@@ -23,7 +23,7 @@ resources:
   - href: ../sponsors/pages/clover-field-market/
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647438724/Youth/Sponsors/clover_field_market_srzywm.png
     alt: Clover Field Market Logo
-  - href: ../sponsors/pages/connor-and-conner
+  - href: ../sponsors/pages/connor-and-connor
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647438802/Youth/Sponsors/connor_connor_consulting_engineers_land_surveyors_dvsans.png
     alt: Connor and Connor Logo
   - href: ../sponsors/pages/cotillion-ridge/
