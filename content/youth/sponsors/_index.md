@@ -120,11 +120,8 @@ menu:
     url: /youth/sponsors/
     weight: 40
 ---
-  We'd like to give thanks to all the team sponsors for their generosity!  With
-  the help of our sponsors we've able to purchase equipment for the league
-  including aluminum goals, portable benches, soccer balls, nets, corner flags,
-  field paint, safety equipment and more.
+ We'd like to give thanks to all the team sponsors for their generosity!  With the help of our sponsors we've able to purchase equipment for the league including aluminum goals, portable benches, soccer balls, nets, corner flags, field paint, safety equipment and more.
 
-  If you have any questions please contact us via the [contact page](/youth/contact/).
+If you have any questions please contact us via the [contact page](/youth/contact/).
 
-  [Robinson Soccer Sponsorship Form](robinson-soccer-sponsorship-form.pdf)
+[Robinson Soccer Sponsorship Form](robinson-soccer-sponsorship-form.pdf)
