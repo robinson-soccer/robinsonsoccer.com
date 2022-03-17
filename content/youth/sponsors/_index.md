@@ -56,7 +56,7 @@ resources:
   - href: ../sponsors/pages/flat-rock-telephone/
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647439084/Youth/Sponsors/flat_rock_telephone_co-op_kgbewo.png
     alt: Flat Rock Telephone Co-op Logo
-  - href: ../sponsors/pages/Hello Gorgeous/
+  - href: ../sponsors/pages/hello-gorgeous/
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647439100/Youth/Sponsors/hello_gorgeous_rp6tmo.png
     alt: Hello Gorgeous Logo
   - href: ../sponsors/pages/hershey/
