@@ -5,7 +5,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
 params:
-  text: This is a test
+  text: ""
 text: This is a test
