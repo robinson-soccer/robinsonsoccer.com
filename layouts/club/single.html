@@ -1,6 +1,8 @@
 {{ define "main" }}
 {{ partial "club/navbar" . }}
+{{ if  .Site.Params.text }}
 {{ partial "banner" . }}
+{{ end }}
 <div class="container">
   <main class="row justify-content-around">
     <section class="col-10 col-lg-7 mt-5">
