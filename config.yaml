@@ -5,9 +5,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-<<<<<<< HEAD
 
-=======
 params:
   text: This is a test
->>>>>>> 652cd7a63c135e68e20fa59cf2ba998151baa546
+text: This is a test
