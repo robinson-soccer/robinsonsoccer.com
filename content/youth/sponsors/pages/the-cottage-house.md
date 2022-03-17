@@ -9,4 +9,4 @@ type: youth/sponsors/pages
 
 102 East Emmons Street\
 (618) 562-7777\
-[facebook.com/The-Cottage-House-111853118836244/](https://www.facebook.com/The-Cottage-House-111853118836244/)
+[facebook.com/The-Cottage-House](https://www.facebook.com/The-Cottage-House-111853118836244/)
