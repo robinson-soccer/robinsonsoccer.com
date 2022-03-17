@@ -5,5 +5,5 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-params:
-
+params: null
+text: This is a test
