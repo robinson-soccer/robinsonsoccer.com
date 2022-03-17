@@ -5,10 +5,6 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-# Announcement Banner
 params:
-  text: 
-    # lineOne: "Register Online Now!"
-    # lineTwo: "The spring 2022 season will be open to all Crawford and Lawrence
-    # County, Illinois players!"
-    # lineThree: "For more information, email: ilrobinsonsoccer@gmail.com."
+  ? text
+text: "**This is a test banner**"
