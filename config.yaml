@@ -6,5 +6,4 @@ markup:
     renderer:
       unsafe: true
 params:
-  ? text
-text: "**This is a test banner**"
+
