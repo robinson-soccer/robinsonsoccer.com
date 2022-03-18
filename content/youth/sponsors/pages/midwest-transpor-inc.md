@@ -1,5 +1,5 @@
 ---
-title: Midwest Transpor Inc
+title: Midwest Transport Inc
 date: 2022-03-18T10:04:26.255Z
 draft: false
 heading: Midwest Transport Inc.
