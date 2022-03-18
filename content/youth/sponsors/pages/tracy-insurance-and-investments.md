@@ -9,4 +9,4 @@ type: youth/sponsors/pages
 
 1508 West Main Street\
 (618) 544-2111\
-[tracyinsurance.com](http://tracyinsurance.com/)
+[tracyinsurance.com](https://tracyinsurance.com/)
