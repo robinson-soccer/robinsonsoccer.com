@@ -9,4 +9,4 @@ type: youth/sponsors/pages
 
 602 North Steel Street\
 (618) 544-7514\
-[rlreadymix.com](http://www.rlreadymix.com/)
+[rlreadymix.com](https://www.rlreadymix.com/)
