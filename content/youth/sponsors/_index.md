@@ -86,7 +86,7 @@ resources:
   - href: ../sponsors/pages/premier-auto-plus/
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647439936/Youth/Sponsors/premier-auto-plus_t1vb0k.png
     alt: Premier Auto Plus Logo
-  - href: ../sponsors/pages/r-and-l-ready-mix-concrete/
+  - href: ../sponsors/pages/r-and-l-ready-mix-concrete-inc/
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647439966/Youth/Sponsors/rl_ready_mix_concrete_tr41kl.png
     alt: R&L Ready Mix Concrete Logo
   - href: ../sponsors/pages/robinson-sew-and-vac/
