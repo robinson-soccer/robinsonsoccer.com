@@ -9,4 +9,4 @@ type: youth/sponsors/pages
 
 1703 West Main Street\
 (618) 544-3228\
-[monicals.com](http://www.monicals.com/locations/monicals-pizza-of-robinson/)
+[monicals.com](https://www.monicals.com/locations/monicals-pizza-of-robinson/)
