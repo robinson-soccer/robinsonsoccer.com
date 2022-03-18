@@ -74,7 +74,7 @@ resources:
   - href: ../sponsors/pages/maxwell-house-cafe/
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647439509/Youth/Sponsors/maxwell_house_cafe_ixrjsb.png
     alt: Maxwell House Cafe Logo
-  - href: ../sponsors/pages/midwest-transport/
+  - href: ../sponsors/pages/midwest-transport-inc/
     src: https://res.cloudinary.com/robinson-soccer/image/upload/v1647439532/Youth/Sponsors/midwest-transport-inc_i77u0c.png
     alt: Midwest Transport Inc. Logo
   - href: ../sponsors/pages/miller-feed-and-tack/
