@@ -5,11 +5,12 @@ date: 2022-02-23T22:56:41.931Z
 draft: false
 menu:
   club:
-    name: U12 Roster
+    identifier: u12 roster
+    name: Roster
     parent: u12
     weight: 100
 ---
-{{< table class="table" >}}
+{{< table class="table table-striped" >}}
 
 **Sample**
 

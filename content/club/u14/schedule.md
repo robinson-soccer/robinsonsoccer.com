@@ -5,7 +5,8 @@ date: 2022-02-01T09:28:29-06:00
 draft: false
 menu:
   club:
-    name: U14 Schedule
+    identifier: u14 schedule
+    name: Schedule
     parent: u14
     weight: 110
 ---

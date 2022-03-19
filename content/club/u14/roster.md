@@ -5,12 +5,13 @@ date: 2022-02-01T09:28:52-06:00
 draft: false
 menu:
   club:
-    name: U14 Roster
+    identifier: u14 roster
+    name: Roster
     parent: u14
     weight: 100
 roster: null
 ---
-{{< table class="table table-hover" >}}
+{{< table class="table table-striped" >}}
 
 **Sample**
 

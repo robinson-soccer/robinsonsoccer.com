@@ -5,6 +5,7 @@ draft: false
 heading: Fundraisers
 menu:
   club:
+    identifier: fundraisers
     name: Fundraisers
     parent: info
     weight: 100

@@ -6,6 +6,7 @@ heading: Uniforms
 image: "/img/uploads/club-uniform.jpg"
 menu:
   club:
+    identifier: uniforms
     name: "Uniforms"
     parent: "info"
     weight: 130

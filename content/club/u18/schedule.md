@@ -5,7 +5,8 @@ date: 2022-03-15T22:40:10.692Z
 draft: false
 menu:
   club:
-    name: U18 Schedule
+    identifier: u18 schedule
+    name: Schedule
     parent: u18
     weight: 110
 ---

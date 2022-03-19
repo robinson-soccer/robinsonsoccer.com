@@ -5,6 +5,7 @@ draft: false
 heading: Registration
 menu:
   club:
+    identifier: registration
     name: "Registration"
     weight: 40
 ---

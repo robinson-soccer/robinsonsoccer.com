@@ -6,6 +6,7 @@ heading: Contact Us
 type: club/contact
 menu:
   club:
+    identifier: contact
     name: "Contact"
     weight: 60
 ---

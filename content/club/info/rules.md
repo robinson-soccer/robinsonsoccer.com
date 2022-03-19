@@ -5,6 +5,7 @@ draft: false
 heading: Rules
 menu:
   club:
+    identifier: rules
     name: "Rules"
     parent: "info"
     weight: 110

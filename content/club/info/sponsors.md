@@ -5,6 +5,7 @@ draft: false
 heading: Sponsors / Donations
 menu:
   club:
+    identifier: sponsors
     name: Sponsors
     parent: info
     weight: 120
