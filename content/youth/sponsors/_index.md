@@ -116,8 +116,8 @@ link:
   url: robinson-soccer-sponsorship-form.pdf
 menu:
   youth:
+    identifier: sponsors
     name: Sponsors
-    url: /youth/sponsors/
     weight: 40
 ---
 We'd like to give thanks to all the team sponsors for their generosity!  With the help of our sponsors we've able to purchase equipment for the league including aluminum goals, portable benches, soccer balls, nets, corner flags, field paint, safety equipment and more.

@@ -6,6 +6,5 @@ menu:
   youth:
       identifier: leagues
       name: Leagues
-      url: /youth/leagues/
       weight: 10
 ---

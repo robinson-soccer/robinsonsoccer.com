@@ -7,6 +7,5 @@ menu:
     identifier: premier
     name: Premier (U13)
     parent: leagues
-    url: /youth/leagues/premier/
     weight: 130
 ---

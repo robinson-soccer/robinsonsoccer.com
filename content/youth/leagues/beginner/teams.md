@@ -5,12 +5,12 @@ draft: false
 heading: U6 Teams
 menu:
   youth:
-    name: U6 Teams
+    identifier: u6 teams
+    name: Teams
     parent: beginner
-    url: /youth/leagues/beginner/teams/
     weight: 200
 ---
-{{< table class="table" >}}
+{{< table class="table table-striped" >}}
 
 **Sample**
 

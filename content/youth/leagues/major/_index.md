@@ -7,6 +7,5 @@ menu:
     identifier: major
     name: Major (U8)
     parent: leagues
-    url: /youth/leagues/major/
     weight: 110
 ---

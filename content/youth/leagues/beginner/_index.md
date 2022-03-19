@@ -7,6 +7,5 @@ menu:
       identifier: beginner
       name: Beginner (U6)
       parent: leagues
-      url: /youth/leagues/beginner/
       weight: 100
 ---

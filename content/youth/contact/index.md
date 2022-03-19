@@ -6,7 +6,7 @@ heading: Contact Us
 type: youth/contact
 menu:
   youth:
+    identifier: contact
     name: Contact
-    url: /youth/contact/
     weight: 50
 ---

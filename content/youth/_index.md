@@ -6,7 +6,6 @@ menu:
   youth:
     identifier: youth
     name: Home
-    url: /#/
     weight: 1
 ---
 ## 2021 Soccer Camp Photo

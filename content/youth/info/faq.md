@@ -5,9 +5,9 @@ draft: false
 heading: Frequently Asked Questions
 menu:
   youth:
+    identifier: faq
     name: FAQ
     parent: info
-    url: /youth/info/faq/
     weight: 170
 ---
 **When is soccer season?**

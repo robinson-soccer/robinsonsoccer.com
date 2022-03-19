@@ -5,8 +5,8 @@ draft: false
 heading: U13 Standings
 menu:
   youth:
-    name: U13 Standings
+    identifier: u13 standings
+    name: Standings
     parent: premier
-    url: /youth/leagues/premier/standings/
     weight: 220
 ---

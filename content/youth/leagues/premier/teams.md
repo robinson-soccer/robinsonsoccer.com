@@ -5,8 +5,8 @@ draft: false
 heading: U13 Teams
 menu:
   youth:
-    name: U13 Teams
+    identifier: u13 teams
+    name: Teams
     parent: premier
-    url: /youth/leagues/premier/teams/
     weight: 200
 ---

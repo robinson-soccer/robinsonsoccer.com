@@ -5,9 +5,9 @@ draft: false
 heading: Fan Gear
 menu:
   youth:
+    identifier: fan gear
     name: Fan Gear
     parent: info
-    url: /youth/info/fan-gear/
     weight: 120
 ---
 Order Robinson Soccer fan gear on the player registration forms.  Pay online along with registration fees or in person on the walk-up date (7/14).

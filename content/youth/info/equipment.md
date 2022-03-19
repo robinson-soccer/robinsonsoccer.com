@@ -5,9 +5,9 @@ draft: false
 heading: Equipment
 menu:
   youth:
+    identifier: equipment
     name: Equipment
     parent: info
-    url: /youth/info/equipment/
     weight: 140
 ---
 A soccer player's basic uniform consists of a shirt, shorts or pants, socks, shinguards and shoes.  Shoes will generally be cleats and the referee will check the bottoms prior to the game to make certain that they do not have any sharp edges and are not dangerous.  Sneakers and other closed toe athletic shoes are also allowed.  We recommend to purchase soccer cleats instead of baseball/soccer cleats.  Soccer cleats do not have a cleat on the front toe area of the shoe.  Shinguards are required be worn by all players under their socks.

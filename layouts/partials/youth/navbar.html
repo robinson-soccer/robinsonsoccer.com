@@ -10,61 +10,46 @@
         </button>
         <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
             <ul class="navbar-nav">
-                {{ $currentPage := . }}
-                {{/*  <li class="nav-item">
-                    <a class="nav-link active" href="/youth/">Home</a>
-                </li>  */}}
                 {{ range .Site.Menus.youth }}
                 {{ if .HasChildren }}
-                <li class="nav-item dropdown{{ if $currentPage.HasMenuCurrent "youth" . }} active{{ end }}">
-                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
-                        data-bs-toggle="dropdown" aria-expanded="false">
-                        {{ .Name }}
-                    </a>
-
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="{{ .Page.RelPermalink }}" id="navbarDropdown"
+                        role="button" data-bs-toggle="dropdown" aria-expanded="false">{{ .Name }}</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                         {{ range .Children }}
+                        {{ if .HasChildren }}
                         <li>
-                            <a class="dropdown-item" href="{{ .Page.RelPermalink }}">
+                            <span class="dropdown-item bg-dark text-light">{{ .Name }}</span>
+                            {{/*  <a class="dropdown-item bg-dark text-light" href="">
                                 {{ .Name }}
-                            </a>
-                            {{ if .HasChildren }}
-                            <ul class="">
+                            </a> */}}
+                            <ul class="dropdown-submenu">
                                 {{ range .Children }}
                                 <li>
                                     <a class="dropdown-item" href="{{ .Page.RelPermalink }}">{{ .Name }}</a>
                                 </li>
                                 {{ end }}
                             </ul>
-
-                            {{ end }}
                         </li>
+                        {{ else }}
+                        <li>
+                            <a class="dropdown-item" href="{{ .Page.RelPermalink }}">
+                                {{ .Name }}
+                            </a>
+                        </li>
+                        {{ end }}
                         {{ end }}
                     </ul>
                 </li>
-
                 {{ else }}
-                <li class="nav-item {{ if $currentPage.HasMenuCurrent "youth" . }}active{{ end }}">
+                <li class="nav-item">
                     <a class="nav-link" href="{{ .Page.RelPermalink }}">
                         {{ .Name }}
                     </a>
                 </li>
                 {{ end }}
-
                 {{ end }}
             </ul>
-
         </div>
     </div>
 </nav>
-
-{{/*  {{ if .HasChildren }}
-{{ range .Children }}
-
-<ul class="dropdown-menu" aria-labelledby="{{ .Name }}"> */}}
-    {{/*  <li class="dropdown-submenu">
-        <a class="dropdown-item dropdown-toggle" href="{{ .Page.RelPermalink }}">{{ .Name }}</a>
-    <ul class="dropdown-menu">
-        <li><a href="{{ .Page.RelPermalink }}" class="dropdown-item">{{ .Name }}</a></li>
-        {{ end }}
-    </ul> */}}

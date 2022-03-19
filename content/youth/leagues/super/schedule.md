@@ -5,8 +5,8 @@ draft: false
 heading: U10 Schedule
 menu:
   youth:
-    name: U10 Schedule
+    identifier: u10 schedule
+    name: Schedule
     parent: super
-    url: /youth/leagues/super/schedule/
     weight: 210
 ---

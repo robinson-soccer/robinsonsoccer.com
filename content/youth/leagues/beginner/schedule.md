@@ -5,11 +5,12 @@ draft: false
 heading: U6 Schedule
 menu:
   youth:
-    name: U6 Schedule
+    identifier: u6 Schedule
+    name: Schedule
     parent: beginner
     weight: 210
 ---
-{{< table class="table" >}}
+{{< table class="table table-striped" >}}
 
 **Week 1 (Sample)**
 

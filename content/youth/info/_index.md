@@ -6,6 +6,5 @@ menu:
   youth:
     identifier: info
     name: Info
-    url: /youth/info/
     weight: 30
 ---

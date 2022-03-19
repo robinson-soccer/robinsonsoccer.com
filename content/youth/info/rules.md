@@ -5,8 +5,8 @@ draft: false
 heading: Rules
 menu:
   youth:
+    identifier: rules
     name: Rules
     parent: info
-    url: /youth/info/rules/
     weight: 130
 ---

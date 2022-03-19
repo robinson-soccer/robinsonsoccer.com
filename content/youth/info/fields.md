@@ -5,9 +5,9 @@ draft: false
 heading: Fields
 menu:
   youth:
+    identifier: fields
     name: Fields
     parent: info
-    url: /youth/info/fields/
     weight: 100
 ---
 Two Beginner (U6) fields, one Major (U8), one Super (U10) field and one Premier (U13) field are located at Washington Park (400 West Condit Street, Robinson, IL 62454).

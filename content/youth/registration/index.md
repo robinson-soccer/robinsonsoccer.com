@@ -5,8 +5,8 @@ draft: false
 heading: Registration
 menu:
   youth:
+    identifier: registration
     name: Registration
-    url: /youth/registration/
     weight: 20
 ---
 Registration fees are $30 per child

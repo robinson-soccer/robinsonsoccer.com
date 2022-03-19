@@ -5,9 +5,9 @@ draft: false
 heading: Coaching
 menu:
   youth:
+    identifier: coaching
     name: Coaching
     parent: info
-    url: /youth/info/coaching/
     weight: 160
 ---
 Amost every year we are in need of coaches for all age groups.  If you have the time and desire please consider coaching a team!  It's okay if you don't know too much about soccer.  Below are some videos, manuals and activities that were created for the US Youth Soccer organization.

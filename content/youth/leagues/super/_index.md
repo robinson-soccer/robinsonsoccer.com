@@ -7,6 +7,5 @@ menu:
     identifier: super
     name: Super (U10)
     parent: leagues
-    url: /youth/leagues/super/
     weight: 120
 ---

@@ -5,8 +5,8 @@ draft: false
 heading: U8 Teams
 menu:
   youth:
-    name: U8 Teams
+    identifier: u8 teams
+    name: Teams
     parent: major
-    url: /youth/leagues/major/teams/
     weight: 200
 ---

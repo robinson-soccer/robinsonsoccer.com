@@ -5,8 +5,8 @@ draft: false
 heading: U13 Schedule
 menu:
   youth:
-    name: U13 Schedule
+    identifier: u13 schedule
+    name: Schedule
     parent: premier
-    url: /youth/leagues/premier/schedule/
     weight: 210
 ---

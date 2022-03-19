@@ -5,13 +5,13 @@ draft: false
 heading: U10 Standings
 menu:
   youth:
-    name: U10 Standings
+    identifier: u10 standings
+    name: Standings
     parent: super
-    url: /youth/leagues/super/standings/
     weight: 220
 ---
 
-{{< table class="table" >}}
+{{< table class="table table-striped" >}}
 
 **Sample**
 

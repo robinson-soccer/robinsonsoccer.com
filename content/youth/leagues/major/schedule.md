@@ -5,8 +5,8 @@ draft: false
 heading: U8 Schedule
 menu:
   youth:
-    name: U8 Schedule
+    identifier: u8 schedule
+    name: Schedule
     parent: major
-    url: /youth/leagues/major/schedule/
     weight: 210
 ---
