@@ -11,7 +11,7 @@ menu:
 ---
 Registration fees are $30 per child
 
-Robinson Soccers Youth League birthdate cutoff is September 1st.  Children ages 4-12 (before 9/1/2022) are eligible to register for Robinson Soccer's Youth League.  For youth older than 12 years-old, please consider Robinson Soccer Club's [U14 or U18 Travel Club]() teams!
+Robinson Soccers Youth League birthdate cutoff is September 1st.  Children ages 4-12 (before 9/1/2022) are eligible to register for Robinson Soccer's Youth League.  For youth older than 12 years-old, please consider Robinson Soccer Club's [U14 or U18 Travel Club](/club/) teams!
 
 Youth League practices start in August and games will be held on Saturday mornings during September and October.
 

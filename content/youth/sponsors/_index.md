@@ -125,4 +125,4 @@ We'd like to give thanks to all the team sponsors for their generosity!  With th
 
 If you have any questions please contact us via the [contact page](/youth/contact/).
 
-[Robinson Soccer Sponsorship Form](robinson-soccer-sponsorship-form.pdf)
+[Robinson Soccer Sponsorship Form](https://res.cloudinary.com/robinson-soccer/image/upload/v1648216969/Youth/Sponsors/Robinson_Soccer_Sonsorship_Form_ucypn8.pdf)
