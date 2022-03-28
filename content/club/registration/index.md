@@ -33,7 +33,7 @@ Please [contact us](/club/contact/) if there are any problems.
 
 In order to participate in practices and games each player must provide a completed and signed IYSA Emergency Medical Release and Liability Waiver form.  You can fill out and print the form here:
 
-[Illinois Youth Soccer: Medical Release Form](http://www.illinoisyouthsoccer.org/_files/forms/Medical%20Release%20Form.pdf)
+[Illinois Youth Soccer: Medical Release Form](https://illinoisyouthsoccer.demosphere-secure.com/_files/forms/iysa-forms-amp-policies/MEDICAL%20RELEASE%202-11-20%20(00000003).pdf)
 
 **IYSA Communicable Disease Release of Liability and Assumption of Risk Agreement**
 
