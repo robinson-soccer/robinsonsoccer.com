@@ -316,12 +316,15 @@ collections:
               - {label: Link Address, name: href, widget: string, default: ../sponsors/pages/example-page/, hint: Replace "example-page" with title of corresponding sponsor page. Use hyphens for spaces}
       
       - file: data/carousel.yaml
-        label: Sidebar Sponsor Carousel
-        name: slides
-        widget: object
+        label: Sponsor Carousel (sidebar)
+        name: carousel
         fields:
-          - {label: Image Source, name: src, widget: string}
-          - {label: Image Alt Text, name: alt, widget: string}    
+          - label: Slides
+            name: slides
+            widget: list
+            fields:
+              - {label: Image URL, name: src, widget: string}
+              - {label: Image Alt Text, name: alt, widget: string}    
   - label: Youth Sponsor Pages
     name: sponsor pages
     folder: content/youth/sponsors/pages
