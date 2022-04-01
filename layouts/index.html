@@ -18,8 +18,10 @@
             src="https://res.cloudinary.com/robinson-soccer/image/upload/f_auto,q_auto/v1647438213/Site/robinsonsoccer6_qfu5zr.png"
             alt="" class="d-lg-none">
         </a>
+        {{ partial "searchbar-link" . }}
       </div>
     </nav>
+    {{ partial "searchbar-form" . }}
     {{ if  .Site.Params.text }}
     {{ partial "banner" . }}
     {{ end }}
