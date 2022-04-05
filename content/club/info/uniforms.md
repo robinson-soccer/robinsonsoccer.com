@@ -11,7 +11,7 @@ menu:
     parent: "info"
     weight: 130
 ---
-![Robinson club soccer jersey](/img/uploads/club-uniform.jpg)
+![Robinson club soccer jersey](https://res.cloudinary.com/robinson-soccer/image/upload/f_auto,q_auto/v1647436062/Club/Info/england478whtblk1-copy_dybtoc.jpg)
 
 **Uniforms will be distributed prior to the spring and fall U12/U14/U18 season and returned at the end of the season.**
 
