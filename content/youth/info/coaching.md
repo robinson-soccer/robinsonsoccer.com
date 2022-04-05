@@ -10,7 +10,7 @@ menu:
     parent: info
     weight: 160
 ---
-Amost every year we are in need of coaches for all age groups.  If you have the time and desire please consider coaching a team!  It's okay if you don't know too much about soccer.  Below are some videos, manuals and activities that were created for the US Youth Soccer organization.
+Almost every year we are in need of coaches for all age groups.  If you have the time and desire please consider coaching a team!  It's okay if you don't know too much about soccer.  Below are some videos, manuals and activities that were created for the US Youth Soccer organization.
 
 Coaches are encouraged to practice once a week throughout the season for the youngest age group and twice a week for the oldest age groups.
 
