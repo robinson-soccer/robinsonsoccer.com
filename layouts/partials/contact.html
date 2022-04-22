@@ -1,5 +1,5 @@
 <div class="container">
-  <form class="p-2">
+  <form class="p-2" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
     <!-- Name -->
     <div class="mb-3">
       <label class="form-label" for="name">Name</label>
@@ -15,9 +15,11 @@
       <label class="form-label" for="message">Message</label>
       <textarea class="form-control" id="message" type="text" placeholder="Message"></textarea>
     </div>
+    <!-- Recapthca -->
+    <div data-netlify-recaptcha="true"></div>
     <!-- Form submit -->
     <div>
-      <button class="btn btn-primary " type="submit">Submit</button>
+      <button class="btn btn-primary" type="submit">Submit</button>
     </div>
   </form>
 </div>
