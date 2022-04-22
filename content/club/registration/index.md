@@ -3,11 +3,11 @@ title: "Registration"
 date: 2022-02-06T10:31:48-06:00
 draft: false
 heading: Registration
-menu:
-  club:
-    identifier: registration
-    name: "Registration"
-    weight: 40
+# menu:
+#   club:
+#     identifier: registration
+#     name: "Registration"
+#     weight: 40
 ---
 ### Step 1: Player Registration
 

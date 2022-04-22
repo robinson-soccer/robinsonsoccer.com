@@ -3,11 +3,11 @@ title: "Registration"
 date: 2022-02-11T16:49:34-06:00
 draft: false
 heading: Registration
-menu:
-  youth:
-    identifier: registration
-    name: Registration
-    weight: 20
+# menu:
+#   youth:
+#     identifier: registration
+#     name: Registration
+#     weight: 20
 ---
 Registration fees are $30 per child
 
