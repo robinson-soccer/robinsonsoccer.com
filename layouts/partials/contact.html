@@ -1,25 +1,30 @@
 <div class="container">
-  <form class="p-2" name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
+  <form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
     <!-- Name -->
-    <div class="mb-3">
-      <label class="form-label" for="name">Name</label>
-      <input class="form-control" id="name" type="text" placeholder="Name" />
+    <div class="form-group mb-3">
+      <label for="name">Name:</label>
+      <input class="form-control" id="name" name="name" type="text" required>
     </div>
     <!-- Email -->
-    <div class="mb-3">
-      <label class="form-label" for="emailAddress">Email Address</label>
-      <input class="form-control" id="emailAddress" type="email" placeholder="Email Address" />
+    <div class="form-group mb-3">
+      <label for="email">Email:</label>
+      <input class="form-control" id="email" name="email" type="email" required>
+    </div>
+    <!-- Subject -->
+    <div class="form-group mb-3">
+      <label for="subject">Subject:</label>
+      <input type="text" class="form-control" id="subject" name="subject" required>
     </div>
     <!-- Message -->
-    <div class="mb-3">
-      <label class="form-label" for="message">Message</label>
-      <textarea class="form-control" id="message" type="text" placeholder="Message"></textarea>
+    <div class="form-group mb-3">
+      <label for="message">Message:</label>
+      <textarea class="form-control" rows="10" id="message" name="message" type="text" required></textarea>
     </div>
     <!-- Recapthca -->
-    <div class="mb-3" data-netlify-recaptcha="true"></div>
     <!-- Form submit -->
-    <div>
-      <button class="btn btn-primary" type="submit">Submit</button>
+    <div class="form-group">
+      <div data-netlify-recaptcha="true"></div>
     </div>
+    <button class="btn btn-primary" type="submit">Submit</button>
   </form>
 </div>
