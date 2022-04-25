@@ -10,7 +10,7 @@ media_library:
     cloud_name: robinson-soccer
     api_key: 567475536231925
 
-site_url: https://robinsonsoccer.com/
+site_url: https://robinsonsoccer.com
 
 collections:
 # Announcements - start
@@ -121,7 +121,7 @@ collections:
         name: "sponsors"
         fields:
           - {label: Heading, name: "heading", widget: string}
-          - {label: Body, name: body, widget: markdown, required: false}
+          - {label: Main Content, name: body, widget: markdown, required: false}
 # Club Info - end
 # Youth Home - start
   - label: Youth Homepage
@@ -248,7 +248,6 @@ collections:
         fields: 
           - {label: Heading, name: "heading", widget: string}
           - {label: Main Content, name: "body", widget: markdown}
-      # Working on coaching - URL's
       - file: content/youth/info/coaching.md
         label: Coaching
         name: "coaching"
