@@ -16,11 +16,11 @@ menu:
 ---
 ## Club Registration - Spring 2022
 
-[![Robinson Soccer Club Registration Flyer](https://res.cloudinary.com/robinson-soccer/image/upload/v1647381902/Club/Homepage/spring-registration2022_shexlw.jpg)](https://res.cloudinary.com/robinson-soccer/image/upload/v1647381902/Club/Homepage/spring-registration2022_shexlw.jpg)
+[![Fall 2022 Club Registration](https://res.cloudinary.com/robinson-soccer/image/upload/v1654789264/Club/Homepage/Club-Registration_grsusg.jpg)](https://res.cloudinary.com/robinson-soccer/image/upload/v1654789264/Club/Homepage/Club-Registration_grsusg.jpg)
 
-U12 (5th & 6th Grade) - U14 (7th & 8th Grade) - U18 (High School)
+U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade)
 
-**UPDATE: Registration is open until March 14, 2022**
+**UPDATE: Registration is open until July 31, 2022**
 
 [Register Online](https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit)
 
