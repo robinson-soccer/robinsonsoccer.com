@@ -10,7 +10,7 @@ menu:
 ---
 ## Recreation Soccer Fall 2022
 
-[![Fall Soccer League Registration](https://res.cloudinary.com/robinson-soccer/image/upload/v1654811067/Youth/Home/fall-league-soccer-registration_dajoa5.jpg)](https://res.cloudinary.com/robinson-soccer/image/upload/v1654811067/Youth/Home/fall-league-soccer-registration_dajoa5.jpg)
+![Fall Soccer League Flyer](https://res.cloudinary.com/robinson-soccer/image/upload/v1654811067/Youth/Home/fall-league-soccer-registration_dajoa5.jpg "Fall League Registration")
 
 [Register Online](https://docs.google.com/forms/d/14cgEqxMY3sotCpzJUbCMgWoTfxcoRRHgvQN8xyEER0M/edit?ts=6290f6ac)
 
@@ -18,14 +18,10 @@ menu:
 
 ## 2021 Soccer Camp Photo
 
-![2021 Challenger Half Day Camp Photo](https://res.cloudinary.com/robinson-soccer/image/upload/f_auto,q_auto/v1647279719/Youth/Home/2021-challenger-half-day-small_y620qc.png)
+![2021 Challenger Half Day Camp Photo](https://res.cloudinary.com/robinson-soccer/image/upload/f_auto,q_auto/v1647279719/Youth/Home/2021-challenger-half-day-small_y620qc.png "2021 Half Day Camp")
 
 [2021 Challenger Half Day Camp](https://res.cloudinary.com/robinson-soccer/image/upload/v1647279719/Youth/Home/2021-challenger-half-day-small_y620qc.png)
 
-
-
-![2021 Challenger Tiny Tyke's Camp](https://res.cloudinary.com/robinson-soccer/image/upload/f_auto,q_auto/v1648220274/Youth/Home/2021-challenger-tinytykes-small_l3wenm.png)
+![2021 Challenger Tiny Tyke's Camp](https://res.cloudinary.com/robinson-soccer/image/upload/f_auto,q_auto/v1648220274/Youth/Home/2021-challenger-tinytykes-small_l3wenm.png "2021 Tiny Tyke's Camp")
 
 [2021 Challenger Tiny Tyke's Camp](https://res.cloudinary.com/robinson-soccer/image/upload/v1648220274/Youth/Home/2021-challenger-tinytykes-small_l3wenm.png)
-
-
