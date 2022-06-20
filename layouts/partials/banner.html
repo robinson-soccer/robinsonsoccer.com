@@ -4,7 +4,7 @@
     <div class="col-10 col-lg-12">
       <div id="banner" class="p-4 shadow">
         {{ with .Site.Params }}
-        <p>{{ .text }}</p>
+        <p>{{ .text | markdownify }}</p>
         {{ end }}
       </div>
     </div>
