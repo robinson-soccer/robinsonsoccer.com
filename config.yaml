@@ -6,9 +6,4 @@ markup:
     renderer:
       unsafe: true
 params:
-  text: |-
-    **Test**
-
-    Testing!
-
-    Testing!
+  text: ""
