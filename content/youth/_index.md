@@ -8,13 +8,9 @@ menu:
     name: Home
     weight: 1
 ---
-## Recreation Soccer Fall 2022
+![]()
 
-![Fall Soccer League Flyer](https://res.cloudinary.com/robinson-soccer/image/upload/v1654811067/Youth/Home/fall-league-soccer-registration_dajoa5.jpg "Fall 2022 League Soccer")
 
-[Register Online](https://docs.google.com/forms/d/14cgEqxMY3sotCpzJUbCMgWoTfxcoRRHgvQN8xyEER0M/edit?ts=6290f6ac)
-
-[Pay Online](https://buy.stripe.com/14k3ebdcFbGDcEM6oq)
 
 ## 2021 Soccer Camp Photo
 
