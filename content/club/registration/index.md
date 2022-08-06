@@ -3,11 +3,11 @@ title: "Registration"
 date: 2022-02-06T10:31:48-06:00
 draft: false
 heading: Registration
-# menu:
-#   club:
-#     identifier: registration
-#     name: "Registration"
-#     weight: 40
+menu:
+  club:
+    identifier: registration
+    name: "Registration"
+    weight: 40
 ---
 ### Step 1: Player Registration
 
@@ -22,8 +22,6 @@ Visit the link below, then enter the amount to pay for all players registering f
 Please [contact us](/club/contact/) if there are any problems.
 
 [Pay Online](https://buy.stripe.com/7sIbKH7Sl9yv9sA000)
-
-{{< club/registration >}}
 
 ---
 
