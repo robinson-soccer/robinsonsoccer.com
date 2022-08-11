@@ -20,8 +20,4 @@ menu:
 
 ## U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade)
 
-**UPDATE: Registration is open until July 31, 2022**
-
-[Register Online](https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit)
-
-[Pay Online](https://buy.stripe.com/7sIbKH7Sl9yv9sA000)
+**UPDATE: Fall registration is now closed**
