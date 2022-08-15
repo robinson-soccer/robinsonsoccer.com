@@ -3,7 +3,10 @@ title: Registration
 date: 2022-02-11T16:49:34-06:00
 heading: Registration
 draft: false
-registrationClosed:
+registrationClosed: |-
+  **Fall registration is now closed!**
+
+  Watch this page for spring 2023 registration.
 menu:
   youth:
     identifier: registration
