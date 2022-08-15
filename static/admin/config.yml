@@ -92,6 +92,7 @@ collections:
         fields:
           - {label: Heading, name: "heading", widget: string}
           - {label: Main Content, name: "body", widget: markdown}
+          - {label: Registration Closed Message, name: registrationClosed, widget: markdown, hint: Adding a message here will hide the Main Content, required: false}
 # Club Info - start
   - label: Club Info
     name: "club info"
@@ -196,7 +197,7 @@ collections:
           - { label: Heading, name: "heading", widget: string}
           - {label: Main Content, name: "body", widget: markdown, required: false}
 # Youth Leagues - end
-# Club Registration
+# Youth Registration
   - label: Youth Registration
     name: "youth registration"
     files:
@@ -205,7 +206,8 @@ collections:
         name: "registration"
         fields:
           - {label: Heading, name: "heading", widget: string}
-          - { label: Main Content, name: "body", widget: markdown}
+          - {label: Main Content, name: "body", widget: markdown}
+          - {label: Registration Closed Message, name: registrationClosed, widget: markdown, hint: Adding a message here will hide the Main Content, required: false}
 # Youth Info - start
   - label: Youth Info
     name: "youth info"
