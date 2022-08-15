@@ -3,14 +3,13 @@ title: Registration
 date: 2022-02-06T10:31:48-06:00
 draft: false
 heading: Registration
+registrationClosed:
 menu:
   club:
     identifier: registration
     name: Registration
     weight: 40
 ---
-### Update: Fall registration is now closed.
-
 ### Step 1: Player Registration
 
 [Click here to register for U12, U14, and U18](https://docs.google.com/forms/d/1acCtXPME0oO-pblii8u2UJmDLbMoO3D_AKifIt9JQk0/edit)
