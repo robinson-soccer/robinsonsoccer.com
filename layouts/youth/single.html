@@ -1,13 +1,17 @@
 {{ define "main" }}
 {{ partial "youth/navbar" . }}
-{{ if  .Site.Params.text }}
+{{ if site.Params.text }}
 {{ partial "banner" . }}
 {{ end }}
 <div class="container">
   <main class="row justify-content-around">
     <section class="col-10 col-lg-7 mt-5">
-      <h2 class="mb-4">{{ .Params.heading }}</h2>
-      {{ .Content }}
+      {{ with .Params.registrationClosed }}
+        <p class="mb-4">{{ . | markdownify }}</p>
+      {{ else }}
+        <h2 class="mb-4">{{ .Params.heading }}</h2>
+        {{ .Content }}
+      {{ end }}
     </section>
     {{ partial "youth/sidebar" . }}
   </main>
