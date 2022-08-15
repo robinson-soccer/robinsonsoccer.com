@@ -7,5 +7,6 @@ markup:
       unsafe: true
 params:
   text: |-
-    **Fall registration is now closed.** \
-    Watch this page for spring 2023 registration.
+    **Fall registration is now closed!**
+
+    Next registration will be in spring 2023.
