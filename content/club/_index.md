@@ -20,4 +20,4 @@ menu:
 
 ## U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade)
 
-**UPDATE: Fall registration is now closed**
+**UPDATE: Spring registration begins Feb. 14**
