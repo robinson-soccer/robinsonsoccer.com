@@ -18,6 +18,6 @@ menu:
 
 ![Spring 2023 Club Soccer Flyer](https://res.cloudinary.com/robinson-soccer/image/upload/v1673400232/springregweb_jn88zr.jpg "Spring 2023 Club Soccer")
 
-## U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade)
+## U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade) - U10 (4th & 5th Grade, Local Play) - U8 (3rd & 4th Grade, Local Play)
 
 **UPDATE: Spring registration begins Feb. 14**
