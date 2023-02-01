@@ -22,3 +22,5 @@ menu:
 
 [Click here to register for U12, U14, and U18](https://docs.google.com/forms/d/1-neE7DWggPdkvtlmPCIsrIT5LOx3uzx0-jvmOQbiwAA/edit)
 
+[Click here to register for U8 and U10](https://docs.google.com/forms/d/1srzqSoaNFDX1sCiqbD6bDHoKa2_vJ3z5LEO3557Bk8A/edit)
+
