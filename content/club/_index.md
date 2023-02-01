@@ -22,6 +22,4 @@ menu:
 
 [Click here to register for U8 and U10](https://docs.google.com/forms/d/1srzqSoaNFDX1sCiqbD6bDHoKa2_vJ3z5LEO3557Bk8A/edit)
 
-[U8, U10 Pay Here]
-(https://buy.stripe.com/00gcOL2y1fWT7ks001)
 
