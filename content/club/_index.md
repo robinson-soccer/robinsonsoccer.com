@@ -20,4 +20,5 @@ menu:
 
 ## U18 (High School) - U14 (7th & 8th Grade) - U12 (5th & 6th Grade) - U10 (4th & 5th Grade, Local Play) - U8 (3rd & 4th Grade, Local Play)
 
-[https://docs.google.com/forms/d/1-neE7DWggPdkvtlmPCIsrIT5LOx3uzx0-jvmOQbiwAA/edit]
+[Click here to register for U12, U14, and U18](https://docs.google.com/forms/d/1-neE7DWggPdkvtlmPCIsrIT5LOx3uzx0-jvmOQbiwAA/edit)
+
