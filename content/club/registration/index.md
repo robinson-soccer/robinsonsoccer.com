@@ -38,4 +38,7 @@ In order to participate in practices and games each player must provide a comple
 
 [Illinois Youth Soccer: Communicable Disease Release Form](https://illinoisyouthsoccer.demosphere-secure.com/_files/forms/covid-19-resources/COVID-19%20WAIVER.pdf)
 
+[Code of Ethics for players, parents and coaches. By submitting player registration, you and all parties involved agree to abide by this code.]
+(https://docs.google.com/document/d/1e1ltfxOnP6PUhnPQe1Fnt8UB3ZGOrqp5/edit)
+
 We will also have extra forms at the first practice.  Forms must be completed and submitted before player can practice.
