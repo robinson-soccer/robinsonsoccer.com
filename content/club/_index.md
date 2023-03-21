@@ -16,4 +16,4 @@ menu:
 ---
 ## Spring registration is now closed
 
-![Spring 2023 Club Soccer Flyer](https://res.cloudinary.com/robinson-soccer/image/upload/v1673400232/springregweb_jn88zr.jpg "Spring 2023 Club Soccer")
+![Spring 2023 Club Soccer Flyer]( "Spring 2023 Club Soccer")
