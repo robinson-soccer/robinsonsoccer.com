@@ -16,4 +16,3 @@ menu:
 ---
 ## Spring registration is now closed
 
-![Spring 2023 Club Soccer Flyer]( "Spring 2023 Club Soccer")
