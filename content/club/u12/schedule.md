@@ -10,20 +10,4 @@ menu:
     parent: u12
     weight: 110
 ---
-[![U12 Spring 2022 Schedule](https://res.cloudinary.com/robinson-soccer/image/upload/v1647382958/Club/Divisions/U12/u12-schedule_nuhhvr.jpg)](https://res.cloudinary.com/robinson-soccer/image/upload/v1647382958/Club/Divisions/U12/u12-schedule_nuhhvr.jpg)
-
-{{< table class="table table-striped" >}}
-
- **Sample**
-
-| Date          | Event                    | Location   | Notes                          |
-| ------------- | ------------------------ | ---------- | ------------------------------ |
-| Sunday 4/3    | Game 2:30 vs Marshall    | Marshall   | Marshall Soccer Fields Route 1 |
-| Saturday 4/9  | Game 4:00 vs Albion      | Robinson   | Washington Elementary          |
-| Saturday 4/23 | Game 4:00 vs Marshall    | Robinson   | Washington Elementary          |
-| Saturday 5/7  | Game 5:00 vs Effingham   | Robinson   | Washington Elementary          |
-| Sunday 5/8    | Game 3:00 vs Charleston  | Charleston | Hi-Cone Fields                 |
-| Saturday 5/14 | Game 11:30 vs Charleston | Robinson   | Washington Elementary          |
-| Sunday 5/15   | Game 2:00 vs Sullivan    | Robinson   | Washington Elementary          |
-
-{{< /table >}}
+![](https://res.cloudinary.com/robinson-soccer/image/upload/v1679617339/u12_copy_w7tmra.jpg)
