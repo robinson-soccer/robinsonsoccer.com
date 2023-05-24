@@ -14,5 +14,4 @@ menu:
     name: Home
     weight: 1
 ---
-## Spring registration is now closed
-
+## Fall Competitive Club Registration opens June 1st - July 31st!
