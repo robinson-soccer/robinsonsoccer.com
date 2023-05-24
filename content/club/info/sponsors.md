@@ -10,35 +10,21 @@ menu:
     parent: info
     weight: 120
 ---
-Robinson Soccer Club is thankful for the donations received from the following businesses. If you're interested in sponsoring the club please [contact us](/club/contact/).
+A very special thank you to the sponsors of our U12, U14, & U18 Competitive Club Teams! 
 
-
+I﻿f you would like to sponsor these teams, please [contact us](/club/contact/).
 
 ![](https://res.cloudinary.com/robinson-soccer/image/upload/v1647439070/Youth/Sponsors/first_robinson_savings_bank_m3jxcs.png)
 
-
-
 ![](https://res.cloudinary.com/robinson-soccer/image/upload/v1647438600/Youth/Sponsors/casey_state_bank_ao2cco.png)
-
-
 
 ![](https://res.cloudinary.com/robinson-soccer/image/upload/v1647439895/Youth/Sponsors/monicals_pizza_tufhh5.png)
 
-
-
 ![](https://res.cloudinary.com/robinson-soccer/image/upload/v1647438989/Youth/Sponsors/first_national_bank_mte6yg.png)
-
-
 
 ![](https://res.cloudinary.com/robinson-soccer/image/upload/v1684939024/LLAE_rhlelp.png)
 
-
-
 ![](https://res.cloudinary.com/robinson-soccer/image/upload/v1647440167/Youth/Sponsors/schaefer_family_dental_upxvbc.png)
-
-
-
-
 
 ![](https://res.cloudinary.com/robinson-soccer/image/upload/v1684939371/Elks_jwpprg.png)
 
