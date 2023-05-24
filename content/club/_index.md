@@ -14,4 +14,4 @@ menu:
     name: Home
     weight: 1
 ---
-## Fall Competitive Club Registration opens June 1st - July 31st!
+## F﻿all Recreation Club and Fall Competitive Club  Registration is now open! [Register now!](https://www.robinsonsoccer.com/club/registration)
